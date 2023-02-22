@@ -1,0 +1,600 @@
+/* Get a fancy font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Roboto:wght@400;500&display=swap');
+
+
+/* Change header text to imported font */
+.navbar{
+  min-height:68px
+  margin-left:574px;
+}
+.navbar-default {
+    background-color: #FFFFFF !important;
+    border-color: #FFFFFF !important;
+    font-family: 'Roboto', serif;
+    font-size: 15px;
+    line-height: 26px;
+    font-weight: 500;
+    letter-spacing: 0px;
+}
+
+.navbar-default .navbar-nav > .active > a:hover {
+  background-color:white;
+
+}
+.navbar-default .navbar-nav > .active > a {
+  background-color:white;
+
+} 
+.navbar-default .navbar-nav > .active > a:focus {
+  background-color:white;
+}
+.navbar .navbar-nav {
+  margin-left: 325px;
+  
+}
+
+/*
+.container {
+  width:1084px;
+  height:197px;
+  background-color:green;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-left: 139px;
+  margin-right: 139px;
+  margin-top: 77px;
+            
+}
+#st-box {
+  float:left;
+  width: 196px;
+  height: 197px;
+  border-radius: 98px;
+  background: #FFEFEF;
+}
+#nd-box {
+  float:left;
+  width: 196px;
+  height: 197px;
+  border-radius: 98px;
+  background: #FFEFEF;
+  margin-left:100px;
+}
+#rd-box {
+  float:left;
+  width: 196px;
+  height: 197px;
+  border-radius: 98px;
+  background: #FFEFEF;
+  margin-left:100px;
+}
+#fourth-box {
+  float:left;
+  width: 196px;
+  height: 197px;
+  border-radius: 98px;
+  background: #FFEFEF;
+  margin-left:100px;
+  } */
+  
+.container_circ {
+  width:1084px;
+  height:197px;
+  background-color:#FFFFFF;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-left: 139px;
+  margin-top: 75px;
+            
+}
+#first_circ {
+  float:left;
+  width: 196px;
+  height: 197px;
+  border-radius: 98px;
+  background: #FFEFEF;
+}
+#second_circ {
+  float:left;
+  width: 196px;
+  height: 197px;
+  border-radius: 98px;
+  background: #FFEFEF;
+  margin-left:100px;
+}
+#third_circ {
+  float:left;
+  width: 196px;
+  height: 197px;
+  border-radius: 98px;
+  background: #FFEFEF;
+  margin-left:100px;
+}
+#fourth_circ {
+  float:left;
+  width: 196px;
+  height: 197px;
+  border-radius: 98px;
+  background: #FFEFEF;
+  margin-left:100px;
+  }
+
+.logo{
+  margin-left: 138px;
+  
+}
+.icon_1{
+  /*width: 71px;
+  height: 153px;
+  float:left;*/
+  padding-left: 63px;
+  padding-top: 26px;
+}
+.icon_2{
+  padding-left: 38.75px;
+  padding-top: 67.66px;
+}
+.icon_3{
+  padding-left: 38.75px;
+  padding-top: 80.5px;
+}
+.icon_4{
+  padding-left: 45px;
+  padding-top: 59px;
+} 
+
+.intro_header1{
+  font-family: 'Roboto', serif;
+  font-size: 18px;
+  line-height: 23px; 
+  letter-spacing: 0px;
+  color: #1A1A1A;
+  font-weight: bold;
+  width: 192px;
+  height: 24px;
+  margin-top: 28.32px;
+}
+.intro_header2{
+  font-family: 'Roboto', serif;
+  font-size: 18px;
+  line-height: 23px; 
+  letter-spacing: 0px;
+  color: #1A1A1A;
+  font-weight: bold;
+  width: 158px;
+  height: 24px;
+  margin-top: 57.66px;
+  margin-left: 19px;
+}
+.intro_header3{
+  font-family: 'Roboto', serif;
+  font-size: 18px;
+  line-height: 23px; 
+  letter-spacing: 0px;
+  color: #1A1A1A;
+  font-weight: bold;
+  width: 200px;
+  height: 24px;
+  margin-top: 90.5px;
+}
+.intro_header4{
+  font-family: 'Roboto', serif;
+  font-size: 18px;
+  line-height: 23px; 
+  letter-spacing: 0px;
+  color: #1A1A1A;
+  font-weight: bold;
+  width: 76px;
+  height: 24px;
+  margin-top: 71px;
+  margin-left: 60px;
+}  
+
+.intro_exp_div{
+  margin-top: 110px;
+  margin-left: 415px;
+  margin-right: 415px;
+}
+.intr_exp{
+  width: 536px;
+  height: 145px;
+  font-family: 'Roboto Slab', serif;
+  font-size: 16px;
+  line-height: 23px; 
+  letter-spacing: 0px;
+  color: #1A1A1A;
+}
+.footer_box_intro{
+  margin-top: 87px;
+  width: 1366px;
+  height: 84px;
+  background: #F3F3F3
+  
+}
+  
+
+.about_1 {
+  text-align: left;
+  color: #1A1A1A;
+  /*margin-top: 4.02vh;
+  margin-left: 30.50vw;
+  margin-right: 30.50vw; */
+  margin-top: 77px;
+  margin-left: 415px;
+  width: 536px;
+  height: 195px;
+
+  }
+.about_1_text {
+  /*width: 25.4vw;
+  height: 5.44vh; */
+  top: 72px;
+  left: 0px;
+  width: 491px;
+  height: 21px;
+  font-family: 'Roboto Slab', serif;
+  font-size: 16px;
+  line-height: 24px; 
+  letter-spacing: 0px;
+  color: #1A1A1A;
+
+}
+.about_2{
+  /*top: 9.77vh;
+  margin-left: 23.64vw;
+  margin-right: 23.64vw;
+  width: 52.70vw;
+  height: 5.02vh;
+  padding-top: 1vh;*/
+  top: 352px;
+  margin-left: 323px;
+  width: 720px;
+  height: 181px;
+  margin-top:12px;
+  text-align: left;
+  letter-spacing: NaNpx;
+  opacity: 1;
+}
+.about_2_text {
+
+  font-family: 'Roboto Slab', serif;
+  font-size: 30px;
+  line-height: 39px; 
+  letter-spacing: 0px;
+  font-weight: bold;
+  color: #0F4988;
+
+}
+.steps_image{
+  top: 609px;
+  margin-left: 139px;
+  width: 1088px;
+  height: 429px;
+}
+.about_3{
+  top: 1119px;
+  margin-left: 415px;
+  width: 536px;
+  height: 529px;
+}
+.about_3_text{
+  top: 168px;
+  left: 0px;
+  width: 496px;
+  height: 21px;
+  letter-spacing: 0px;
+  color: #1A1A1A;
+  font-family: 'Roboto Slab', serif;
+  font-size: 16px;
+  line-height: 24px; 
+}
+.web_image{
+  top: 1671px;
+  margin-left: 307px;
+  width: 753px;
+  height: 900px;
+}
+.about_4{
+  margin-left: 415px;
+  width: 536px;
+  height: 532px;
+  margin-top: 59px;
+  
+}
+.about_4_text{
+  top: 312px;
+  left: 0px;
+  width: 535px;
+  height: 21px;
+  color: #1A1A1A;
+  font-family: 'Roboto Slab', serif;
+  font-size: 16px;
+  line-height: 24px; 
+}
+.about_cite_box{
+  margin-left: 323px;
+  width: 720px;
+  height: 184px;
+  background: #F3F3F3;
+  opacity: 1;
+  /*border-radius: 10px;*/
+  margin-top: 46px;
+}
+.about_cite_inside{
+  top: 3238px;
+  left: 353px;
+  width: 660px;
+  height: 124px;
+  padding-top: 30px;
+  padding-right: 30px
+  padding-bottom: 30px;
+  padding-left: 30px;
+}
+.about_cite_line1{
+  margin-top: 0px;
+  margin-left: 0px;
+  letter-spacing: 0px;
+  color: #1A1A1A;
+  font-family: 'Roboto Slab', serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: bold;
+  text-align: left;
+  
+}
+.about_cite_line2{
+  padding-top:18px;
+  left: 0px;
+  letter-spacing: 0px;
+  color: #1A1A1A;
+  font-family: 'Roboto Slab', serif;
+  font-size: 16px;
+  line-height: 24px;
+  text-decoration: underline;
+}
+.about_cite_line3{
+  left: 0px;
+  letter-spacing: 0px;
+  color: #1A1A1A;
+  font-family: 'Roboto Slab', serif;
+  font-size: 16px;
+  line-height: 24px;
+}
+.footer_box{
+  margin-top:124px;
+  left: 0px;
+  width: 1366px;
+  height: 84px;
+  background: #F3F3F3
+}
+.footer_sabanci{
+  margin-left: 139px;
+  width: 92px;
+  height: 40px;
+  margin-top:22px;
+  margin-bottom: 22px;
+  float:left;
+}
+.footer_bilkent{
+  margin-left: 59px;
+  width: 152px;
+  height: 33px;
+  margin-top:25px;
+  margin-bottom: 26px;
+  float: left;
+}
+.footer_text{
+width: 720px;
+height: 47px;
+margin-left: 65px;
+text-align: left;
+font-family: 'Roboto ', serif;
+letter-spacing: 0px;
+color: #8D8D8D;
+opacity: 1;
+font-size: 11px;
+line-height: 16px;
+margin-top: 18px;
+margin-bottom: 19px;
+margin-right: 139px;
+float:left;
+}
+.total_counts_plot_exp_div{
+  top: 120px;
+  margin-left: 139px;
+  margin-top: 57px;
+  width: 1088px;
+  height: 68px;
+
+}
+.total_counts_plot_title{
+  width: 317px;
+  height: 29px;
+  padding-bottom:39px;
+  text-align: left;
+  font-family: 'Roboto', serif;
+  font-size: 22px;
+  line-height: 29px;
+  font-weight: bold;
+  float:left;
+  
+}
+.total_counts_plot_exp{
+  margin-left:235px;
+  width: 536px;
+  height: 63px;
+  letter-spacing: 0px;
+  color: #1A1A1A;
+  opacity: 1;
+  text-align: left;
+  font-family: 'Roboto', serif;
+  font-size: 14px;
+  line-height: 22px;
+  float:right;
+}
+.total_counts_plot{
+  top: 233px;
+  margin-top:45px;
+  margin-left: 139px;
+  margin-right: 139px;
+  width: 1088px;
+  height: 322px;
+}
+.mrna_heatmap_div{
+  top: 713px;
+  margin-left: 139px;
+  margin-right: 139px;
+  margin-top:158px;
+  width: 1088px;
+  height: 68px;
+}
+.mrna_heatmap_title{
+  width: 417px;
+  height: 29px;
+  padding-bottom:39px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #1A1A1A;
+  opacity: 1;
+  font-family: 'Roboto', serif;
+  font-size: 22px;
+  line-height: 29px;
+  font-weight: bold;
+  float:left;
+}
+
+.mrna_heatmap_exp{
+  letter-spacing: 0px;
+  opacity: 1;
+  text-align: left;
+  float:right;
+  font-family: 'Roboto', serif;
+  font-size: 14px;
+  line-height: 22px;
+  color: #1A1A1A;
+  padding-left: 135px;
+  width: 536px;
+  height: 63px;
+  
+}
+.mrna_heatmap_plot{
+  top: 811px;
+  left: 139px;
+  width: 1088px;
+  height: 687px;
+  margin-top:30px;
+  margin-left: 139px;
+  margin-right: 139px;
+}
+.mirna_heatmap_div{
+  top: 713px;
+  margin-left: 139px;
+  margin-right: 139px;
+  margin-top:188px;
+  width: 1088px;
+  height: 68px;
+}
+.mirna_heatmap_title{
+  width: 423px;
+  height: 29px;
+  padding-bottom:39px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #1A1A1A;
+  opacity: 1;
+  font-family: 'Roboto', serif;
+  font-size: 22px;
+  line-height: 29px;
+  font-weight: bold;
+  float:left;
+}
+
+.mirna_heatmap_exp{
+  letter-spacing: 0px;
+  opacity: 1;
+  text-align: left;
+  float:right;
+  font-family: 'Roboto', serif;
+  font-size: 14px;
+  line-height: 22px;
+  color: #1A1A1A;
+  padding-left: 129px;
+  width: 536px;
+  height: 63px;
+  
+}
+.mirna_heatmap_plot{
+  top: 1789px;
+  width: 1088px;
+  height: 627px;
+  margin-top:30px;
+  margin-left: 139px;
+  margin-right: 139px;
+}
+.scatter_exp_div{
+  margin-left:139px;
+  margin-right:139px;
+  top: 2524px;
+  margin-top:108px;
+  width: 1088px;
+  height: 68px;
+}
+  
+.mrnaScatter_exp{
+  width: 536px;
+  height: 41px;
+  float:left;
+  letter-spacing: 0px;
+  color: #1A1A1A;
+  opacity: 1;
+  text-align: left;
+  font-family: 'Roboto', serif;
+  font-size: 14px;
+  line-height: 22px;
+}
+.mirnaScatter_exp{
+  width: 536px;
+  height: 41px;
+  margin-left:16px;
+  letter-spacing: 0px;
+  color: #1A1A1A;
+  opacity: 1;
+  text-align: left;
+  font-family: 'Roboto', serif;
+  font-size: 14px;
+  line-height: 22px;
+  float:right;
+}
+.scatter_div{
+  margin-left:139px;
+  margin-right:139px;
+  top: 2581px;
+  width: 1088px;
+  height: 332px;
+  margin-top: 16px;
+}
+.mrna_scatter{
+  height: 332px;
+  width: 544px;
+  float:left;
+  max-width:544px;
+}
+.mirna_scatter{
+  height: 332px;
+  width: 544px;
+  float:right;
+  max-width:544px;
+}
+.footer_box_stats{
+  margin-top:113px;
+  left: 0px;
+  width: 1366px;
+  height: 84px;
+  background: #F3F3F3
+}
+  
+  
+
+
+
+

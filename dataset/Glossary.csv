@@ -1,0 +1,16 @@
+Term;Description
+<strong>miRNA</strong>;microRNA
+<strong>Cancer Specific Triplets</strong>;Triplets found in a specific cancer type
+<strong>Pan-cancer Triplets</strong>; Triplets and miRNA pairs that is common in at least two cancer type
+<strong>mRNA</strong>;messenger RNA
+<strong>TF</strong>;transcription factor
+<strong>Triplet pvalue</strong>; pvalues from Kernel Three Variable Interaction Test
+<strong>Corrected pvalue</strong>; pvalues adjusted with Benjamini/Hochberg to limit FDR
+<strong>miRNA Literature</strong>; Whether there is evidence in the literature regarding the importance of any of the miRNAs in the triplets is presented.
+<strong>mRNA Literature</strong>; Whether there is evidence in the literature regarding the importance of mRNAs in the triplets is presented.
+<strong>miRNA-mRNA Database</strong>; Experimental data source of miRNA and mRNA relationships
+<strong>miRNA p-value</strong>; Positive logFC values indicate upregulation in the primary tumor samples and represented with <span style="color:#FF0000">red </span> color.  In contrast, a negative logFC value shows downregulation in the primary tumor samples and represented with <span style="color:#074487">blue</span>.
+<strong>miRNA logFC</strong>; To define statistically significant difference for the logFC, p-value < 0.05 is selected as cut-off criteria. Statistically significant miRNAs represented with <strong>bold</strong> texts.
+<strong>mRNA p-value</strong>; Positive logFC values indicate upregulation in the primary tumor samples and represented with <span style="color:#FF0000">red </span> color.  In contrast, a negative logFC value shows downregulation in the primary tumor samples and represented with <span style="color:#074487">blue</span>.
+<strong>mRNA logFC</strong>; To define statistically significant difference for the logFC,  p-value < 0.05 is selected as cut-off criteria. Statistically significant mRNAs represented with <strong>bold</strong> texts.
+
