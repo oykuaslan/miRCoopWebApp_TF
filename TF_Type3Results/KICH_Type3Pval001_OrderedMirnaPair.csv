@@ -1,0 +1,4 @@
+miRNA1,miRNA2,TF,Target,ModeOfRegulation,TwoVar_mirna1_tf,TwoVar_mirna2_tf,mirna1mirna2_tf,TwoVar_mirna1_target,TwoVar_mirna2_target,mirna1mirna2_target
+hsa-mir-21-3p,hsa-mir-940,4782,23583,1,0.0065,0.0055,0.17,0.268,0.459,0.0045
+hsa-mir-181c-3p,hsa-mir-363-3p,3516,27086,1,0.001,0.003,0,0.035,0.038,0.001
+hsa-mir-181c-3p,hsa-mir-363-3p,3516,114793,1,0.001,0.003,0,0.0445,0.426,0.002

@@ -1,0 +1,6 @@
+"miRNA1","miRNA2","TF","hgnc_symbol_tf","Target","hgnc_symbol_target","ModeOfRegulation","TwoVar_mirna1_tf","TwoVar_mirna2_tf","mirna1mirna2_tf","TwoVar_mirna1_target","TwoVar_mirna2_target","mirna1mirna2_target"
+"hsa-mir-200a-3p","hsa-mir-200b-3p",6935,"ZEB1",999,"CDH1",-1,0,0.0055,0.001,0.0345,0.066,0.005
+"hsa-mir-200a-3p","hsa-mir-200b-3p",9839,"ZEB2",7431,"VIM",1,0.0025,0.004,0.0075,0.0125,0.015,0.0035
+"hsa-mir-29b-3p","hsa-mir-29c-3p",60436,"TGIF2",8165,"AKAP1",-1,0.0015,0.002,0.251,0.332,0.14,0.0025
+"hsa-mir-1224-5p","hsa-mir-766-3p",4609,"MYC",10327,"AKR1A1",1,0.0045,5e-04,0.0335,0.028,0.897,0.0065
+"hsa-mir-29b-3p","hsa-mir-374b-5p",6925,"TCF4",10413,"YAP1",1,0.008,0.0095,0.235,0.4055,0.643,0.007
