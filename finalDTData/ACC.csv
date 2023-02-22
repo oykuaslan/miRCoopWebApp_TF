@@ -1,0 +1,428 @@
+"entrezgene_id","hgnc_symbol","mirna1","mirna2","Two_Var_XZ","Two_Var_YZ","Lancaster_XY_Z","is_mrna_tf","mirna1Literature","mirna2Literature","mrnaLiterature","miRNA1_mRNA_DB","miRNA2_mRNA_DB"
+93,"ACVR2B","hsa-mir-3127-5p","hsa-mir-203a-3p",0.586,0.831,5e-04,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+93,"ACVR2B","hsa-mir-497-5p","hsa-mir-335-5p",0.516,0.538,0.005,FALSE,"NA","NA","NA"," tarbase ","mirtarbase tarbase "
+214,"ALCAM","hsa-mir-98-5p","hsa-mir-508-5p",0.065,0.0135,0.0015,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+317,"APAF1","hsa-mir-452-5p","hsa-mir-491-5p",0.9845,0.0315,0,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+444,"ASPH","hsa-mir-33a-5p","hsa-mir-106a-5p",0.2835,0.59,0.002,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+473,"RERE","hsa-mir-1224-5p","hsa-mir-182-5p",0.14,0.046,0.0085,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+558,"AXL","hsa-mir-541-3p","hsa-mir-485-5p",0.2725,0.079,0.0075,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+567,"B2M","hsa-mir-195-3p","hsa-mir-411-3p",0.6765,0.56,0.004,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+595,"CCND1","hsa-mir-380-5p","hsa-mir-95-3p",0.0115,0.176,0.0055,FALSE,"NA","NA","NA
+NA
+<a href='https://pubmed.ncbi.nlm.nih.gov/12097293'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/12097293'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/16954163'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/20621999'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/20621999'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/24390213'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/24390213'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/24390213'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/28095038'>PubMedLink</a>","mirtarbase  ","mirtarbase tarbase "
+599,"BCL2L2","hsa-mir-550a-5p","hsa-mir-21-3p",0.547,0.0405,0.0045,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+672,"BRCA1","hsa-mir-1-3p","hsa-mir-26a-1-3p",0.352,0.2945,0.002,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+678,"ZFP36L2","hsa-mir-125b-2-3p","hsa-mir-378a-3p",0.327,0.0745,0.0045,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+767,"CA8","hsa-mir-9-5p","hsa-mir-329-3p",0.3665,0.3725,0.0015,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+894,"CCND2","hsa-mir-141-5p","hsa-mir-345-5p",0.15,0.015,0.005,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+894,"CCND2","hsa-mir-301a-3p","hsa-mir-21-3p",0.5555,0.012,0.0035,FALSE,"NA","NA","NA","mirtarbase tarbase "," tarbase "
+894,"CCND2","hsa-mir-345-5p","hsa-mir-221-3p",0.022,0.332,0.009,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+894,"CCND2","hsa-mir-452-3p","hsa-mir-2355-5p",0.665,0.4145,0.0065,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+920,"CD4","hsa-mir-204-5p","hsa-mir-485-5p",0.0185,0.0775,0.0035,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+1021,"CDK6","hsa-mir-105-5p","hsa-mir-142-5p",0.06,0.058,0.006,FALSE,"NA","NA","<a href='https://pubmed.ncbi.nlm.nih.gov/29283884'>PubMedLink</a>","mirtarbase  "," tarbase "
+1021,"CDK6","hsa-mir-29b-1-5p","hsa-mir-224-5p",0.017,0.015,0.003,FALSE,"NA","NA","<a href='https://pubmed.ncbi.nlm.nih.gov/29283884'>PubMedLink</a>"," tarbase "," tarbase "
+1021,"CDK6","hsa-mir-582-5p","hsa-mir-222-3p",0.7875,0.032,5e-04,FALSE,"NA","NA","<a href='https://pubmed.ncbi.nlm.nih.gov/29283884'>PubMedLink</a>"," tarbase ","mirtarbase tarbase "
+1073,"CFL2","hsa-mir-98-5p","hsa-mir-130b-3p",0.558,0.018,0.007,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+1075,"CTSC","hsa-mir-455-3p","hsa-mir-488-3p",0.228,0.0175,0.003,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+1287,"COL4A5","hsa-mir-3127-5p","hsa-mir-9-3p",0.05,0.197,0.0045,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+1303,"COL12A1","hsa-let-7i-3p","hsa-mir-543",0.7155,0.1245,5e-04,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+1303,"COL12A1","hsa-mir-9-5p","hsa-mir-92b-3p",0.0715,0.7735,0.0095,FALSE,"NA","NA","NA","mirtarbase tarbase "," tarbase "
+1595,"CYP51A1","hsa-mir-15b-3p","hsa-mir-582-5p",0.0725,0.3165,0.0075,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+1601,"DAB2","hsa-mir-134-5p","hsa-mir-935",0.449,0.143,0.0095,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+1642,"DDB1","hsa-mir-149-5p","hsa-mir-142-5p",0.87,0.1165,0,FALSE,"NA","NA","NA","mirtarbase  "," tarbase "
+1871,"E2F3","hsa-mir-1305","hsa-mir-376a-3p",0.8055,0.7075,0,TRUE,"NA","NA","NA"," tarbase ","mirtarbase  "
+1983,"EIF5","hsa-mir-130b-3p","hsa-mir-33b-5p",0.762,0.063,0.002,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+1995,"ELAVL3","hsa-mir-582-5p","hsa-mir-511-5p",0.024,0.2915,0,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+1997,"ELF1","hsa-mir-218-5p","hsa-mir-542-3p",0.212,0.1255,0.002,TRUE,"NA","NA","NA"," tarbase "," tarbase "
+2317,"FLNB","hsa-mir-107","hsa-mir-1-3p",0.8065,0.5485,0.006,FALSE,"NA","NA","NA"," tarbase ","mirtarbase tarbase "
+2355,"FOSL2","hsa-mir-155-5p","hsa-mir-625-5p",0.593,0.4595,0.0095,TRUE,"NA","NA","NA"," tarbase "," tarbase "
+2495,"FTH1","hsa-mir-491-5p","hsa-mir-218-5p",0.984,0.0175,0.0055,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+2619,"GAS1","hsa-mir-204-5p","hsa-mir-493-5p",0.161,0.263,0.0025,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+2627,"GATA6","hsa-mir-106a-5p","hsa-mir-363-3p",0.011,0.059,0.008,TRUE,"NA","NA","<a href='https://pubmed.ncbi.nlm.nih.gov/15666845'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/15767045'>PubMedLink</a>","mirtarbase  ","mirtarbase  "
+2649,"NR6A1","hsa-mir-497-5p","hsa-mir-98-5p",0.787,0.856,0.0025,TRUE,"NA","NA","NA","mirtarbase  ","mirtarbase tarbase "
+2908,"NR3C1","hsa-mir-329-3p","hsa-mir-301a-3p",0.1775,0.2715,0.009,TRUE,"NA","NA","<a href='https://pubmed.ncbi.nlm.nih.gov/17102092'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/17102092'>PubMedLink</a>","mirtarbase  "," tarbase "
+3177,"SLC29A2","hsa-mir-195-5p","hsa-mir-3065-3p",0.398,0.5325,0.003,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+3178,"HNRNPA1","hsa-mir-1291","hsa-mir-194-5p",0.208,0.75,0.0015,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+3209,"HOXA13","hsa-mir-363-3p","hsa-mir-222-3p",0.6675,0.364,5e-04,TRUE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+3480,"IGF1R","hsa-mir-218-5p","hsa-mir-376a-3p",0.3855,0.0285,0.0045,FALSE,"NA","NA","<a href='https://pubmed.ncbi.nlm.nih.gov/15241731'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/16595699'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/16595699'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/16595699'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/21045685'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/22019903'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/22407999'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/25110710'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/26131713'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/26312764'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/27185872'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/31185266'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/31185266'>PubMedLink</a>","mirtarbase tarbase ","mirtarbase  "
+3480,"IGF1R","hsa-mir-377-3p","hsa-mir-379-3p",0.045,0.06,0.009,FALSE,"NA","NA","<a href='https://pubmed.ncbi.nlm.nih.gov/15241731'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/16595699'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/16595699'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/16595699'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/21045685'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/22019903'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/22407999'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/25110710'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/26131713'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/26312764'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/27185872'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/31185266'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/31185266'>PubMedLink</a>","mirtarbase  "," tarbase "
+3480,"IGF1R","hsa-mir-377-3p","hsa-mir-409-3p",0.0375,0.0595,0.002,FALSE,"NA","NA","<a href='https://pubmed.ncbi.nlm.nih.gov/15241731'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/16595699'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/16595699'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/16595699'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/21045685'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/22019903'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/22407999'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/25110710'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/26131713'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/26312764'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/27185872'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/31185266'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/31185266'>PubMedLink</a>","mirtarbase  "," tarbase "
+3480,"IGF1R","hsa-mir-539-5p","hsa-mir-377-3p",0.1115,0.055,0.002,FALSE,"NA","NA","<a href='https://pubmed.ncbi.nlm.nih.gov/15241731'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/16595699'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/16595699'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/16595699'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/21045685'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/22019903'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/22407999'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/25110710'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/26131713'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/26312764'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/27185872'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/31185266'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/31185266'>PubMedLink</a>","mirtarbase  ","mirtarbase  "
+3480,"IGF1R","hsa-mir-545-5p","hsa-mir-106a-5p",0.1945,0.5595,0.0045,FALSE,"NA","NA","<a href='https://pubmed.ncbi.nlm.nih.gov/15241731'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/16595699'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/16595699'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/16595699'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/21045685'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/22019903'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/22407999'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/25110710'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/26131713'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/26312764'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/27185872'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/31185266'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/31185266'>PubMedLink</a>"," tarbase "," tarbase "
+3667,"IRS1","hsa-mir-106a-5p","hsa-mir-141-3p",0.262,0.0405,0,FALSE,"NA","NA","<a href='https://pubmed.ncbi.nlm.nih.gov/12414625'>PubMedLink</a>"," tarbase "," tarbase "
+3745,"KCNB1","hsa-let-7a-2-3p","hsa-mir-301b-3p",0.5075,0.591,5e-04,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+3875,"KRT18","hsa-mir-195-5p","hsa-mir-424-5p",0.6755,0.0145,0.0095,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+4035,"LRP1","hsa-mir-494-3p","hsa-mir-154-3p",0.011,0.0155,0.0055,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+4131,"MAP1B","hsa-mir-379-3p","hsa-mir-769-3p",0.253,0.581,0.0065,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+4144,"MAT2A","hsa-mir-497-5p","hsa-mir-1224-5p",0.4205,0.1035,0.007,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+4154,"MBNL1","hsa-mir-9-5p","hsa-mir-130b-5p",0.015,0.1125,0.0095,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+4193,"MDM2","hsa-mir-222-3p","hsa-mir-152-3p",0.077,0.7665,0.001,FALSE,"NA","NA","<a href='https://pubmed.ncbi.nlm.nih.gov/11141476'>PubMedLink</a>","mirtarbase tarbase "," tarbase "
+4193,"MDM2","hsa-mir-628-3p","hsa-mir-545-5p",0.615,0.608,0.008,FALSE,"NA","NA","<a href='https://pubmed.ncbi.nlm.nih.gov/11141476'>PubMedLink</a>"," tarbase "," tarbase "
+4524,"MTHFR","hsa-mir-766-3p","hsa-mir-424-5p",0.3715,0.038,0.0065,FALSE,"NA","NA","NA"," tarbase ","mirtarbase tarbase "
+4602,"MYB","hsa-mir-215-5p","hsa-mir-192-5p",0.017,0.29,0.001,TRUE,"NA","NA","NA","mirtarbase tarbase ","mirtarbase tarbase "
+4609,"MYC","hsa-mir-323a-3p","hsa-mir-1224-5p",0.0695,0.1465,0.002,TRUE,"NA","NA","<a href='https://pubmed.ncbi.nlm.nih.gov/21685915'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/22706201'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/22706201'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/2405002'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/2405002'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/26070438'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/26070438'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/26070438'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/9071974'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/9071974'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/9177412'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/9177412'>PubMedLink</a>","mirtarbase  "," tarbase "
+4666,"NACA","hsa-mir-2355-3p","hsa-mir-107",0.3645,0.045,0.005,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+4775,"NFATC3","hsa-mir-338-3p","hsa-mir-337-3p",0.096,0.048,0.0085,TRUE,"<a href='https://pubmed.ncbi.nlm.nih.gov/24140344'>PubMedLink</a>","<a href='https://pubmed.ncbi.nlm.nih.gov/26084291'>PubMedLink</a>","NA"," tarbase ","mirtarbase  "
+4779,"NFE2L1","hsa-mir-503-5p","hsa-mir-181d-5p",0.8105,0.524,0.008,TRUE,"NA","NA","NA"," tarbase "," tarbase "
+4782,"NFIC","hsa-mir-106a-5p","hsa-mir-150-5p",0.513,0.202,0.007,TRUE,"NA","NA","NA"," tarbase "," tarbase "
+4782,"NFIC","hsa-mir-150-5p","hsa-mir-511-5p",0.1905,0.105,0.003,TRUE,"NA","NA","NA"," tarbase "," tarbase "
+4782,"NFIC","hsa-mir-550a-5p","hsa-mir-222-3p",0.191,0.16,0.0035,TRUE,"NA","NA","NA"," tarbase "," tarbase "
+4782,"NFIC","hsa-mir-940","hsa-mir-629-5p",0.0545,0.0115,0.0075,TRUE,"NA","NA","NA","mirtarbase  "," tarbase "
+4853,"NOTCH2","hsa-mir-155-5p","hsa-mir-485-3p",0.038,0.0515,0.006,FALSE,"NA","NA","NA","mirtarbase tarbase "," tarbase "
+4853,"NOTCH2","hsa-mir-939-5p","hsa-mir-940",0.692,0.477,0.004,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+4982,"TNFRSF11B","hsa-mir-196a-5p","hsa-mir-769-3p",0.1755,0.415,0.009,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+5037,"PEBP1","hsa-mir-1976","hsa-mir-155-5p",0.12,0.1045,0,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase tarbase "
+5054,"SERPINE1","hsa-mir-34c-5p","hsa-mir-299-5p",0.6325,0.572,0.0015,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+5230,"PGK1","hsa-mir-96-5p","hsa-mir-488-3p",0.3105,0.1785,0.0065,FALSE,"NA","NA","NA","mirtarbase  "," tarbase "
+5291,"PIK3CB","hsa-mir-130b-3p","hsa-mir-204-5p",0.1965,0.0515,0.0035,FALSE,"NA","NA","<a href='https://pubmed.ncbi.nlm.nih.gov/22692904'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/22692904'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/23889685'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/27811202'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/27811202'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/29075302'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/30217997'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/30217997'>PubMedLink</a>"," tarbase "," tarbase "
+5291,"PIK3CB","hsa-mir-130b-5p","hsa-mir-204-5p",0.012,0.0805,0.0065,FALSE,"NA","NA","<a href='https://pubmed.ncbi.nlm.nih.gov/22692904'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/22692904'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/23889685'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/27811202'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/27811202'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/29075302'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/30217997'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/30217997'>PubMedLink</a>","mirtarbase tarbase "," tarbase "
+5295,"PIK3R1","hsa-mir-195-5p","hsa-mir-107",0.03,0.041,0.0015,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+5295,"PIK3R1","hsa-mir-542-3p","hsa-mir-107",0.809,0.057,0.007,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+5324,"PLAG1","hsa-mir-424-5p","hsa-mir-183-5p",0.2885,0.2155,0.001,TRUE,"NA","<a href='https://pubmed.ncbi.nlm.nih.gov/29982598'>PubMedLink</a>","NA","mirtarbase tarbase "," tarbase "
+5358,"PLS3","hsa-mir-182-5p","hsa-mir-149-5p",0.028,0.6435,0.0035,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+5452,"POU2F2","hsa-mir-493-5p","hsa-mir-204-5p",0.7185,0.128,0.0085,TRUE,"NA","NA","NA"," tarbase ","mirtarbase  "
+5494,"PPM1A","hsa-mir-1226-3p","hsa-mir-1305",0.1685,0.543,0.004,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+5660,"PSAP","hsa-mir-766-3p","hsa-mir-130b-3p",0.5485,0.1975,0.009,FALSE,"NA","NA","NA"," tarbase ","mirtarbase tarbase "
+5865,"RAB3B","hsa-mir-452-3p","hsa-mir-155-5p",0.0415,0.029,0.009,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+5931,"RBBP7","hsa-mir-330-3p","hsa-mir-106a-5p",0.391,0.0415,0.0095,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+6158,"RPL28","hsa-mir-582-3p","hsa-mir-766-3p",0.848,0.819,0.005,FALSE,"NA","NA","NA"," tarbase ","mirtarbase tarbase "
+6319,"SCD","hsa-mir-188-3p","hsa-mir-1226-3p",0.686,0.6825,0.0075,FALSE,"NA","NA","NA","mirtarbase tarbase "," tarbase "
+6334,"SCN8A","hsa-mir-377-3p","hsa-mir-329-3p",0.1435,0.149,0.006,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+6452,"SH3BP2","hsa-mir-129-5p","hsa-mir-338-3p",0.1405,0.0525,5e-04,FALSE,"NA","<a href='https://pubmed.ncbi.nlm.nih.gov/24140344'>PubMedLink</a>","NA","mirtarbase  "," tarbase "
+6542,"SLC7A2","hsa-mir-545-5p","hsa-mir-411-3p",0.06,0.7925,0.0085,FALSE,"NA","NA","NA","mirtarbase tarbase "," tarbase "
+6574,"SLC20A1","hsa-mir-125b-2-3p","hsa-let-7c-5p",0.0505,0.045,0,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+6574,"SLC20A1","hsa-mir-125b-2-3p","hsa-mir-222-3p",0.0305,0.0775,0.0095,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+6574,"SLC20A1","hsa-mir-221-3p","hsa-mir-125b-2-3p",0.062,0.036,0.0015,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+6645,"SNTB2","hsa-mir-195-5p","hsa-mir-24-2-5p",0.054,0.245,0.0025,FALSE,"NA","NA","NA","mirtarbase tarbase "," tarbase "
+6645,"SNTB2","hsa-mir-195-5p","hsa-mir-497-5p",0.0665,0.0905,0.0035,FALSE,"NA","NA","NA","mirtarbase tarbase ","mirtarbase tarbase "
+6645,"SNTB2","hsa-mir-497-5p","hsa-mir-24-2-5p",0.0935,0.2295,0.001,FALSE,"NA","NA","NA","mirtarbase tarbase "," tarbase "
+6667,"SP1","hsa-mir-33a-5p","hsa-mir-377-3p",0.46,0.037,0.008,TRUE,"NA","NA","NA","mirtarbase tarbase "," tarbase "
+6773,"STAT2","hsa-mir-202-3p","hsa-mir-509-3-5p",0.0185,0.225,0.0065,TRUE,"NA","NA","NA","mirtarbase  "," tarbase "
+6850,"SYK","hsa-mir-96-5p","hsa-mir-182-5p",0.0285,0.0165,0.004,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+6925,"TCF4","hsa-mir-106a-5p","hsa-mir-203a-3p",0.7605,0.0585,0.006,TRUE,"NA","NA","NA"," tarbase ","mirtarbase  "
+6935,"ZEB1","hsa-mir-409-3p","hsa-mir-335-5p",0.1635,0.112,0.0085,TRUE,"NA","NA","NA","mirtarbase  ","mirtarbase tarbase "
+7042,"TGFB2","hsa-mir-141-3p","hsa-mir-136-3p",0.885,0.9675,0.007,FALSE,"NA","NA","NA","mirtarbase  "," tarbase "
+7049,"TGFBR3","hsa-mir-106a-5p","hsa-mir-141-5p",0.079,0.7535,0.006,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+7057,"THBS1","hsa-mir-202-3p","hsa-mir-509-3-5p",0.0585,0.4015,0.0045,FALSE,"NA","NA","<a href='https://pubmed.ncbi.nlm.nih.gov/11134136'>PubMedLink</a>","mirtarbase  ","mirtarbase  "
+7057,"THBS1","hsa-mir-202-3p","hsa-mir-509-5p",0.042,0.5775,0.0075,FALSE,"NA","NA","<a href='https://pubmed.ncbi.nlm.nih.gov/11134136'>PubMedLink</a>","mirtarbase  ","mirtarbase  "
+7128,"TNFAIP3","hsa-mir-513a-5p","hsa-mir-125b-5p",0.0345,0.0135,0,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+7188,"TRAF5","hsa-mir-125b-2-3p","hsa-mir-223-5p",0.0575,0.4305,0.001,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+7248,"TSC1","hsa-mir-21-3p","hsa-mir-451a",0.857,0.0505,0.009,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+7381,"UQCRB","hsa-mir-616-5p","hsa-mir-130b-3p",0.534,0.0185,0.0025,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+7414,"VCL","hsa-mir-29b-2-5p","hsa-mir-380-5p",0.492,0.1695,0.005,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+7422,"VEGFA","hsa-mir-146a-5p","hsa-mir-125b-5p",0.4245,0.405,0.003,FALSE,"NA","NA","<a href='https://pubmed.ncbi.nlm.nih.gov/10646734'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/11605159'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/11605159'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/12780519'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/12780519'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/14659975'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/14659975'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/16954163'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/18039096'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/19017755'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/19017755'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/21422080'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/22183643'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/22183643'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/22183643'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/23106811'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/23106811'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/25973039'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/28264974'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/28264974'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/28264974'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/28423608'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/28423608'>PubMedLink</a>"," tarbase "," tarbase "
+7436,"VLDLR","hsa-mir-1305","hsa-mir-942-5p",0.4015,0.1685,0.006,FALSE,"NA","NA","NA","mirtarbase tarbase "," tarbase "
+7436,"VLDLR","hsa-mir-616-5p","hsa-mir-2277-3p",0.0175,0.3855,0.005,FALSE,"NA","NA","NA","mirtarbase  "," tarbase "
+7436,"VLDLR","hsa-mir-629-3p","hsa-mir-196b-5p",0.3525,0.2805,0.0075,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+7436,"VLDLR","hsa-mir-92b-3p","hsa-mir-942-5p",0.507,0.1675,0.0035,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+7465,"WEE1","hsa-mir-1224-5p","hsa-mir-204-5p",0.0485,0.199,0.001,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+7465,"WEE1","hsa-mir-125b-2-3p","hsa-mir-138-5p",0.0675,0.0995,0.009,FALSE,"NA","NA","NA","mirtarbase tarbase "," tarbase "
+7675,"ZNF121","hsa-mir-105-5p","hsa-mir-452-5p",0.0275,0.125,0.0075,TRUE,"NA","NA","NA","mirtarbase  "," tarbase "
+7700,"ZNF141","hsa-mir-135a-5p","hsa-mir-629-5p",0.46,0.177,0.001,TRUE,"NA","NA","NA"," tarbase "," tarbase "
+7994,"KAT6A","hsa-mir-107","hsa-mir-376c-3p",0.101,0.031,0.005,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+7994,"KAT6A","hsa-mir-323a-3p","hsa-mir-107",0.0125,0.1875,0.0025,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+8085,"KMT2D","hsa-mir-142-3p","hsa-mir-942-5p",0.047,0.2455,0.0035,FALSE,"NA","NA","<a href='https://pubmed.ncbi.nlm.nih.gov/26032282'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/26032282'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/26032282'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/26839173'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/26839173'>PubMedLink</a>"," tarbase "," tarbase "
+8091,"HMGA2","hsa-mir-511-5p","hsa-mir-194-5p",0.014,0.065,0.0045,TRUE,"NA","NA","NA"," tarbase ","mirtarbase tarbase "
+8396,"PIP4K2B","hsa-mir-215-5p","hsa-mir-616-5p",0.3795,0.691,0,FALSE,"NA","NA","NA","mirtarbase tarbase "," tarbase "
+8434,"RECK","hsa-mir-29b-2-5p","hsa-mir-96-5p",0.3955,0.275,5e-04,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase tarbase "
+8473,"OGT","hsa-mir-1226-3p","hsa-mir-98-5p",0.029,0.5735,5e-04,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+8473,"OGT","hsa-mir-330-3p","hsa-mir-1226-3p",0.215,0.0375,0.006,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+8553,"BHLHE40","hsa-mir-330-3p","hsa-mir-329-3p",0.1545,0.158,0.0025,TRUE,"NA","NA","NA"," tarbase ","mirtarbase tarbase "
+8573,"CASK","hsa-mir-142-3p","hsa-mir-203a-3p",0.365,0.321,0.0025,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+8613,"PLPP3","hsa-mir-184","hsa-mir-149-5p",0.284,0.2815,0.0025,FALSE,"<a href='https://pubmed.ncbi.nlm.nih.gov/20409325'>PubMedLink</a> <a href='https://pubmed.ncbi.nlm.nih.gov/21115884'>PubMedLink</a> <a href='https://pubmed.ncbi.nlm.nih.gov/29982598'>PubMedLink</a>","NA","NA","mirtarbase  "," tarbase "
+9149,"DYRK1B","hsa-mir-491-5p","hsa-mir-939-5p",0.667,0.042,0.0015,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+9194,"SLC16A7","hsa-mir-450b-5p","hsa-mir-16-2-3p",0.343,0.012,0.0095,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+9344,"TAOK2","hsa-mir-106a-5p","hsa-mir-1287-5p",0.23,0.035,0.005,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+9369,"NRXN3","hsa-mir-940","hsa-mir-196a-5p",0.549,0.068,0.001,FALSE,"NA","NA","NA","mirtarbase  "," tarbase "
+9645,"MICAL2","hsa-mir-127-5p","hsa-mir-379-5p",0.025,0.028,0,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+9655,"SOCS5","hsa-mir-127-5p","hsa-mir-195-5p",0.102,0.4265,0.0035,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+9655,"SOCS5","hsa-mir-323a-3p","hsa-mir-195-5p",0.096,0.432,0.003,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+9655,"SOCS5","hsa-mir-494-3p","hsa-mir-195-5p",0.166,0.428,0.004,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+9655,"SOCS5","hsa-mir-494-3p","hsa-mir-497-5p",0.1375,0.449,5e-04,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+9655,"SOCS5","hsa-mir-543","hsa-mir-195-5p",0.191,0.4635,0.001,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+9655,"SOCS5","hsa-mir-543","hsa-mir-497-5p",0.191,0.3495,0,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+9659,"PDE4DIP","hsa-mir-130b-3p","hsa-mir-497-5p",0.04,0.953,0.002,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+9693,"RAPGEF2","hsa-mir-130b-3p","hsa-mir-1180-3p",0.0425,0.0325,0.006,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+9725,"TMEM63A","hsa-let-7c-5p","hsa-mir-125b-5p",0.264,0.0555,0.004,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+9732,"DOCK4","hsa-mir-149-5p","hsa-mir-1180-3p",0.3415,0.8335,0.009,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+9852,"EPM2AIP1","hsa-mir-142-3p","hsa-mir-196a-5p",0.0245,0.5115,0.004,FALSE,"NA","NA","NA","mirtarbase tarbase "," tarbase "
+9874,"TLK1","hsa-mir-222-3p","hsa-mir-194-5p",0.053,0.0125,0.0085,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+9874,"TLK1","hsa-mir-497-5p","hsa-mir-194-5p",0.2035,0.0265,0.0075,FALSE,"NA","NA","NA","mirtarbase tarbase "," tarbase "
+9962,"SLC23A2","hsa-mir-21-3p","hsa-mir-142-3p",0.1125,0.146,5e-04,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+9975,"NR1D2","hsa-mir-142-3p","hsa-mir-199a-3p",0.233,0.7565,0.008,TRUE,"NA","NA","NA"," tarbase "," tarbase "
+10125,"RASGRP1","hsa-mir-488-5p","hsa-mir-196a-5p",0.025,0.192,0.001,FALSE,"NA","NA","NA","mirtarbase  "," tarbase "
+10130,"PDIA6","hsa-mir-150-5p","hsa-mir-195-5p",0.1305,0.0105,0.0085,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase tarbase "
+10221,"TRIB1","hsa-mir-224-5p","hsa-mir-377-5p",0.101,0.2545,0.0085,FALSE,"NA","NA","NA","mirtarbase tarbase ","mirtarbase  "
+10395,"DLC1","hsa-let-7a-2-3p","hsa-mir-125b-5p",0.4685,0.047,0.005,FALSE,"NA","NA","NA","mirtarbase  "," tarbase "
+10409,"BASP1","hsa-mir-335-3p","hsa-let-7f-1-3p",0.8035,0.6385,0.009,FALSE,"NA","NA","NA","mirtarbase  "," tarbase "
+10455,"ECI2","hsa-mir-362-5p","hsa-mir-502-5p",0.011,0.166,5e-04,FALSE,"<a href='https://pubmed.ncbi.nlm.nih.gov/26073258'>PubMedLink</a>","NA","NA"," tarbase "," tarbase "
+10725,"NFAT5","hsa-mir-153-3p","hsa-mir-370-3p",0.181,0.141,0.0075,TRUE,"NA","NA","NA"," tarbase "," tarbase "
+10838,"ZNF275","hsa-mir-18a-3p","hsa-mir-221-3p",0.146,0.378,0.003,TRUE,"NA","NA","NA","mirtarbase  ","mirtarbase tarbase "
+10847,"SRCAP","hsa-mir-335-5p","hsa-mir-329-3p",0.2115,0.0475,0.002,TRUE,"NA","NA","NA"," tarbase ","mirtarbase  "
+11127,"KIF3A","hsa-mir-142-5p","hsa-mir-940",0.1345,0.1015,0.007,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+11165,"NUDT3","hsa-mir-654-5p","hsa-mir-766-3p",0.118,0.232,0.0015,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+11165,"NUDT3","hsa-mir-766-3p","hsa-mir-136-5p",0.178,0.157,0.0015,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase tarbase "
+11165,"NUDT3","hsa-mir-766-3p","hsa-mir-329-3p",0.204,0.1205,5e-04,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+11167,"FSTL1","hsa-mir-506-3p","hsa-mir-766-3p",0.6035,0.9965,0.0085,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+11278,"KLF12","hsa-mir-92b-3p","hsa-mir-182-5p",0.0185,0.021,0.006,TRUE,"NA","NA","NA"," tarbase "," tarbase "
+22836,"RHOBTB3","hsa-mir-452-5p","hsa-mir-130b-5p",0.425,0.1435,0.0015,FALSE,"NA","NA","NA","mirtarbase  "," tarbase "
+22849,"CPEB3","hsa-mir-199a-3p","hsa-mir-550a-5p",0.3455,0.016,0.0075,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+23126,"POGZ","hsa-mir-378a-3p","hsa-mir-221-3p",0.451,0.8645,0.009,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+23161,"SNX13","hsa-mir-224-5p","hsa-mir-21-3p",0.0115,0.6305,0.001,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+23167,"EFR3A","hsa-mir-130b-3p","hsa-mir-32-3p",0.031,0.5275,0.007,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+23318,"TUT4","hsa-mir-195-5p","hsa-mir-10a-5p",0.095,0.029,0.0035,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+23367,"LARP1","hsa-mir-1287-5p","hsa-mir-182-5p",0.083,0.1135,0.0095,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+23367,"LARP1","hsa-mir-1287-5p","hsa-mir-96-5p",0.0655,0.135,0.0045,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+23414,"ZFPM2","hsa-mir-107","hsa-mir-493-3p",0.1565,0.0415,0.0045,TRUE,"NA","NA","NA"," tarbase "," tarbase "
+23466,"CBX6","hsa-mir-424-5p","hsa-mir-138-5p",0.424,0.035,0.0045,FALSE,"NA","NA","NA","mirtarbase tarbase "," tarbase "
+23516,"SLC39A14","hsa-mir-149-5p","hsa-mir-363-3p",0.595,0.025,0.0065,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+23524,"SRRM2","hsa-mir-195-5p","hsa-mir-10a-5p",0.1325,0.4925,0.005,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+23524,"SRRM2","hsa-mir-92a-1-5p","hsa-mir-107",0.648,0.4435,0.001,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+23530,"NNT","hsa-mir-107","hsa-mir-497-5p",0.1475,0.0295,0.002,FALSE,"NA","NA","<a href='https://pubmed.ncbi.nlm.nih.gov/29850793'>PubMedLink</a>","mirtarbase  ","mirtarbase  "
+23530,"NNT","hsa-mir-195-5p","hsa-mir-107",0.0285,0.145,0.0045,FALSE,"NA","NA","<a href='https://pubmed.ncbi.nlm.nih.gov/29850793'>PubMedLink</a>","mirtarbase  ","mirtarbase  "
+23530,"NNT","hsa-mir-195-5p","hsa-mir-335-5p",0.037,0.1585,0.0095,FALSE,"NA","NA","<a href='https://pubmed.ncbi.nlm.nih.gov/29850793'>PubMedLink</a>","mirtarbase  ","mirtarbase tarbase "
+23530,"NNT","hsa-mir-195-5p","hsa-mir-497-5p",0.03,0.0305,5e-04,FALSE,"NA","NA","<a href='https://pubmed.ncbi.nlm.nih.gov/29850793'>PubMedLink</a>","mirtarbase  ","mirtarbase  "
+23607,"CD2AP","hsa-mir-181d-5p","hsa-mir-194-5p",0.308,0.0985,0.009,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+23657,"SLC7A11","hsa-mir-223-5p","hsa-mir-411-3p",0.384,0.6885,0.005,FALSE,"NA","NA","NA","mirtarbase  "," tarbase "
+23657,"SLC7A11","hsa-mir-410-3p","hsa-mir-223-5p",0.8415,0.432,0,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+23677,"SH3BP4","hsa-mir-155-5p","hsa-mir-141-3p",0.032,0.8885,0.0055,FALSE,"NA","NA","NA","mirtarbase tarbase "," tarbase "
+25805,"BAMBI","hsa-mir-301b-3p","hsa-mir-511-5p",0.0945,0.195,0,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+26036,"ZNF451","hsa-mir-21-3p","hsa-mir-130b-3p",0.0795,0.089,0.0085,TRUE,"NA","NA","NA"," tarbase "," tarbase "
+26036,"ZNF451","hsa-mir-21-3p","hsa-mir-9-5p",0.08,0.0685,0.002,TRUE,"NA","NA","NA"," tarbase "," tarbase "
+27086,"FOXP1","hsa-mir-141-3p","hsa-mir-497-3p",0.3375,0.3375,0.0035,TRUE,"NA","NA","NA"," tarbase ","mirtarbase  "
+27125,"AFF4","hsa-mir-942-5p","hsa-mir-142-3p",0.8785,0.1725,0.004,FALSE,"NA","NA","NA"," tarbase ","mirtarbase tarbase "
+27125,"AFF4","hsa-mir-942-5p","hsa-mir-142-5p",0.8615,0.115,0,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+28996,"HIPK2","hsa-mir-149-5p","hsa-mir-32-3p",0.3405,0.854,0.004,FALSE,"NA","NA","NA","mirtarbase  "," tarbase "
+30837,"SOCS7","hsa-mir-629-5p","hsa-let-7c-5p",0.5885,0.159,5e-04,FALSE,"NA","NA","NA"," tarbase ","mirtarbase tarbase "
+51128,"SAR1B","hsa-mir-200c-3p","hsa-mir-301a-3p",0.0995,0.017,0.0025,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+51128,"SAR1B","hsa-mir-301b-3p","hsa-mir-301a-3p",0.1235,0.016,5e-04,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+51306,"FAM13B","hsa-mir-150-5p","hsa-mir-942-5p",0.391,0.4975,0.005,FALSE,"NA","NA","NA","mirtarbase  "," tarbase "
+51804,"SIX4","hsa-mir-130b-3p","hsa-mir-218-5p",0.645,0.8315,0.0025,TRUE,"NA","NA","NA","mirtarbase tarbase "," tarbase "
+51804,"SIX4","hsa-mir-141-3p","hsa-mir-218-5p",0.7195,0.8495,0.007,TRUE,"NA","NA","NA"," tarbase "," tarbase "
+54407,"SLC38A2","hsa-mir-7-5p","hsa-mir-181d-5p",0.802,0.643,0.003,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+54443,"ANLN","hsa-mir-450b-5p","hsa-mir-107",0.266,0.023,0.008,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+54536,"EXOC6","hsa-mir-32-3p","hsa-mir-1305",0.5595,0.1455,0.0085,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+54545,"MTMR12","hsa-mir-9-3p","hsa-mir-182-5p",0.2205,0.1985,0,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+54855,"TENT5C","hsa-mir-141-3p","hsa-mir-550a-5p",0.6415,0.764,0,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+55209,"SETD5","hsa-mir-942-5p","hsa-mir-939-5p",0.062,0.8065,0.0035,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+55632,"G2E3","hsa-mir-33b-5p","hsa-mir-511-5p",0.0585,0.027,0.002,FALSE,"NA","NA","NA","mirtarbase tarbase ","mirtarbase  "
+57167,"SALL4","hsa-let-7c-5p","hsa-mir-508-5p",0.3785,0.2895,0.0055,TRUE,"NA","NA","NA"," tarbase ","mirtarbase  "
+57185,"NIPAL3","hsa-mir-1976","hsa-mir-199b-5p",0.588,0.012,0.0015,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+57198,"ATP8B2","hsa-mir-194-5p","hsa-mir-939-5p",0.0815,0.1755,0.0085,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+57475,"PLEKHH1","hsa-mir-200c-3p","hsa-mir-2355-3p",0.3405,0.5255,0.006,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+57493,"HEG1","hsa-mir-130b-3p","hsa-mir-9-5p",0.324,0.5185,0.0095,FALSE,"NA","NA","NA","mirtarbase  "," tarbase "
+57551,"TAOK1","hsa-mir-2355-5p","hsa-mir-769-3p",0.483,0.433,0.0095,FALSE,"NA","NA","NA","mirtarbase tarbase "," tarbase "
+57608,"JCAD","hsa-mir-301b-3p","hsa-mir-149-5p",0.3015,0.4625,5e-04,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+57659,"ZBTB4","hsa-mir-18a-3p","hsa-mir-204-5p",0.1625,0.5745,0.005,TRUE,"NA","NA","NA"," tarbase "," tarbase "
+57659,"ZBTB4","hsa-mir-18a-3p","hsa-mir-7-5p",0.1515,0.457,0.001,TRUE,"NA","NA","NA"," tarbase "," tarbase "
+57688,"ZSWIM6","hsa-mir-33a-5p","hsa-mir-98-5p",0.174,0.7525,0.004,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+57690,"TNRC6C","hsa-mir-129-5p","hsa-mir-301b-3p",0.3165,0.186,0.003,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+57826,"RAP2C","hsa-mir-296-5p","hsa-mir-107",0.699,0.0155,0.007,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+59084,"ENPP5","hsa-mir-130b-3p","hsa-mir-301a-3p",0.0475,0.0255,0.0045,FALSE,"NA","NA","NA","mirtarbase tarbase ","mirtarbase tarbase "
+59084,"ENPP5","hsa-mir-130b-3p","hsa-mir-301b-3p",0.0335,0.118,0,FALSE,"NA","NA","NA","mirtarbase tarbase ","mirtarbase tarbase "
+59283,"CACNG8","hsa-mir-223-3p","hsa-mir-204-5p",0.554,0.541,0.005,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+64393,"ZMAT3","hsa-mir-130b-3p","hsa-mir-200c-3p",0.025,0.207,0.008,FALSE,"NA","NA","NA","mirtarbase tarbase ","mirtarbase tarbase "
+64393,"ZMAT3","hsa-mir-130b-3p","hsa-mir-2355-5p",0.0275,0.0475,0,FALSE,"NA","NA","NA","mirtarbase tarbase "," tarbase "
+64393,"ZMAT3","hsa-mir-130b-3p","hsa-mir-301b-3p",0.0315,0.0415,0.006,FALSE,"NA","NA","NA","mirtarbase tarbase ","mirtarbase tarbase "
+64393,"ZMAT3","hsa-mir-2355-3p","hsa-mir-130b-3p",0.0205,0.018,0.0055,FALSE,"NA","NA","NA","mirtarbase tarbase ","mirtarbase tarbase "
+64393,"ZMAT3","hsa-mir-2355-3p","hsa-mir-301b-3p",0.031,0.0295,0.001,FALSE,"NA","NA","NA","mirtarbase tarbase ","mirtarbase tarbase "
+64393,"ZMAT3","hsa-mir-2355-5p","hsa-mir-301b-3p",0.0515,0.041,0.007,FALSE,"NA","NA","NA"," tarbase ","mirtarbase tarbase "
+64599,"GIGYF1","hsa-mir-1266-5p","hsa-mir-125b-5p",0.118,0.2075,0.0065,FALSE,"NA","NA","NA","mirtarbase  "," tarbase "
+65988,"ZNF747","hsa-mir-2355-3p","hsa-mir-942-5p",0.2955,0.118,5e-04,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+79026,"AHNAK","hsa-mir-1229-3p","hsa-mir-141-3p",0.387,0.1575,0.007,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+79572,"ATP13A3","hsa-mir-296-5p","hsa-mir-32-3p",0.048,0.0905,0.0065,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+79572,"ATP13A3","hsa-mir-455-5p","hsa-mir-127-5p",0.012,0.261,0.003,FALSE,"NA","NA","NA","mirtarbase  "," tarbase "
+79646,"PANK3","hsa-mir-106a-5p","hsa-mir-224-5p",0.4735,0.066,0.009,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+79646,"PANK3","hsa-mir-199b-5p","hsa-mir-142-5p",0.516,0.011,0.0095,FALSE,"NA","NA","NA","mirtarbase  "," tarbase "
+79776,"ZFHX4","hsa-mir-200c-3p","hsa-mir-98-5p",0.028,0.6255,0.004,TRUE,"NA","NA","NA","mirtarbase  "," tarbase "
+79801,"SHCBP1","hsa-mir-146a-5p","hsa-mir-455-3p",0.031,0.665,0.0085,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+79832,"QSER1","hsa-mir-582-3p","hsa-mir-495-3p",0.1435,0.1665,0.0065,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+80139,"ZNF703","hsa-mir-491-5p","hsa-mir-2355-5p",0.0115,0.4965,5e-04,FALSE,"NA","NA","NA","mirtarbase tarbase "," tarbase "
+80205,"CHD9","hsa-mir-301a-3p","hsa-mir-376a-5p",0.137,0.1175,0.007,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+80255,"SLC35F5","hsa-mir-3199","hsa-mir-106a-5p",0.773,0.18,0.007,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase tarbase "
+80255,"SLC35F5","hsa-mir-545-5p","hsa-mir-106a-5p",0.888,0.148,0.007,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase tarbase "
+80315,"CPEB4","hsa-mir-16-2-3p","hsa-mir-130b-5p",0.1495,0.047,0.0035,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+80315,"CPEB4","hsa-mir-16-2-3p","hsa-mir-550a-5p",0.1625,0.1795,0.008,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+80315,"CPEB4","hsa-mir-21-3p","hsa-mir-224-5p",0.159,0.586,0.0015,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+80315,"CPEB4","hsa-mir-363-3p","hsa-mir-301b-3p",0.338,0.0175,0.0025,FALSE,"NA","NA","NA","mirtarbase  "," tarbase "
+80704,"SLC19A3","hsa-mir-548v","hsa-mir-616-5p",0.0465,0.0105,5e-04,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+81706,"PPP1R14C","hsa-mir-221-3p","hsa-mir-497-5p",0.1415,0.6295,0.0075,FALSE,"NA","NA","NA","mirtarbase  "," tarbase "
+81848,"SPRY4","hsa-mir-940","hsa-mir-548v",0.464,0.0605,5e-04,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+84159,"ARID5B","hsa-mir-513a-5p","hsa-mir-33a-5p",0.4545,0.467,0.007,TRUE,"NA","NA","NA"," tarbase ","mirtarbase tarbase "
+84159,"ARID5B","hsa-mir-942-5p","hsa-mir-676-3p",0.012,0.0255,0,TRUE,"NA","NA","NA"," tarbase "," tarbase "
+84162,"KIAA1109","hsa-mir-301a-3p","hsa-mir-301b-3p",0.028,0.0105,0.0015,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+84191,"CIAO2A","hsa-mir-181c-5p","hsa-mir-181d-5p",0.031,0.051,0,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+84285,"EIF1AD","hsa-mir-509-3p","hsa-mir-224-5p",0.2105,0.5445,0.008,FALSE,"NA","NA","NA","mirtarbase  "," tarbase "
+84301,"DDI2","hsa-mir-10a-5p","hsa-mir-125b-5p",0.525,0.3505,0.0085,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+84451,"MAP3K21","hsa-mir-218-5p","hsa-mir-130b-5p",0.119,0.016,0.0055,FALSE,"NA","NA","NA","mirtarbase tarbase "," tarbase "
+84522,"JAGN1","hsa-mir-192-5p","hsa-mir-34b-3p",0.526,0.6605,0.008,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+84679,"SLC9A7","hsa-mir-214-5p","hsa-mir-335-5p",0.2855,0.2795,0.0085,FALSE,"NA","NA","NA"," tarbase ","mirtarbase tarbase "
+85463,"ZC3H12C","hsa-mir-497-5p","hsa-mir-33a-5p",0.4255,0.082,0.004,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+85464,"SSH2","hsa-mir-491-5p","hsa-mir-378c",0.4345,0.6505,0.006,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+90411,"MCFD2","hsa-mir-105-5p","hsa-mir-188-3p",0.283,0.5075,0.0015,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+91833,"WDR20","hsa-mir-301a-3p","hsa-mir-301b-3p",0.0405,0.8855,0.004,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+92126,"DSEL","hsa-mir-676-3p","hsa-mir-513b-5p",0.306,0.0285,0.0095,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+92154,"MTSS2","hsa-mir-200c-3p","hsa-mir-150-5p",0.326,0.3475,0,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+92999,"ZBTB47","hsa-mir-424-5p","hsa-mir-542-5p",0.0145,0.2125,0.001,TRUE,"NA","NA","NA"," tarbase ","mirtarbase  "
+114823,"LENG8","hsa-mir-195-5p","hsa-mir-942-5p",0.51,0.6815,0.002,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+117177,"RAB3IP","hsa-mir-1305","hsa-mir-629-5p",0.052,0.0475,0.0055,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+121512,"FGD4","hsa-mir-107","hsa-mir-199a-5p",0.0225,0.2515,0.0015,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+122786,"FRMD6","hsa-mir-493-5p","hsa-mir-29b-2-5p",0.8065,0.1035,0,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+124540,"MSI2","hsa-mir-2355-3p","hsa-mir-106a-5p",0.0525,0.279,0.005,FALSE,"NA","NA","NA","mirtarbase  "," tarbase "
+124935,"SLC43A2","hsa-mir-139-3p","hsa-mir-204-5p",0.0615,0.296,0,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+132720,"FAM241A","hsa-mir-513b-5p","hsa-mir-142-3p",0.3885,0.1725,0.0035,FALSE,"NA","NA","NA","mirtarbase  "," tarbase "
+132864,"CPEB2","hsa-mir-182-5p","hsa-mir-183-5p",0.0645,0.063,0.008,FALSE,"NA","<a href='https://pubmed.ncbi.nlm.nih.gov/29982598'>PubMedLink</a>","NA"," tarbase "," tarbase "
+132864,"CPEB2","hsa-mir-182-5p","hsa-mir-96-5p",0.0635,0.1645,0.003,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+138151,"NACC2","hsa-mir-301b-3p","hsa-mir-130b-3p",0.1165,0.1825,0.0095,FALSE,"NA","NA","NA","mirtarbase tarbase ","mirtarbase tarbase "
+140576,"S100A16","hsa-mir-182-5p","hsa-mir-96-5p",0.25,0.111,0.0025,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+140685,"ZBTB46","hsa-mir-23a-5p","hsa-mir-3940-3p",0.0585,0.1965,0.004,TRUE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+140735,"DYNLL2","hsa-mir-146a-5p","hsa-mir-92a-1-5p",0.9775,0.5045,0.005,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+140735,"DYNLL2","hsa-mir-301a-3p","hsa-mir-942-5p",0.1145,0.03,0.007,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+140735,"DYNLL2","hsa-mir-92a-1-5p","hsa-mir-301b-3p",0.5585,0.1185,0.006,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+140735,"DYNLL2","hsa-mir-92a-1-5p","hsa-mir-345-5p",0.557,0.131,0.0085,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+143686,"SESN3","hsa-mir-1287-5p","hsa-mir-223-3p",0.34,0.5185,0,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+144165,"PRICKLE1","hsa-mir-766-3p","hsa-mir-215-5p",0.322,0.3195,0.007,FALSE,"NA","NA","NA"," tarbase ","mirtarbase tarbase "
+145282,"MIPOL1","hsa-mir-96-5p","hsa-mir-183-5p",0.0115,0.0165,0.003,FALSE,"NA","<a href='https://pubmed.ncbi.nlm.nih.gov/29982598'>PubMedLink</a>","NA","mirtarbase  ","mirtarbase  "
+147687,"ZNF417","hsa-mir-92b-3p","hsa-mir-301a-3p",0.784,0.0925,0.002,TRUE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+150864,"FAM117B","hsa-mir-616-5p","hsa-mir-508-5p",0.7005,0.035,0.004,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+151636,"DTX3L","hsa-mir-377-5p","hsa-mir-98-5p",0.063,0.026,0.006,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+151636,"DTX3L","hsa-mir-485-5p","hsa-mir-98-5p",0.081,0.0335,0.001,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+160897,"GPR180","hsa-mir-424-5p","hsa-mir-363-3p",0.1765,0.7365,0.0095,FALSE,"NA","NA","NA","mirtarbase  "," tarbase "
+170959,"ZNF431","hsa-mir-301a-3p","hsa-mir-450b-5p",0.0825,0.2545,0.002,TRUE,"NA","NA","NA","mirtarbase tarbase "," tarbase "
+170959,"ZNF431","hsa-mir-330-5p","hsa-mir-139-5p",0.4635,0.1415,0.0075,TRUE,"NA","<a href='https://pubmed.ncbi.nlm.nih.gov/29516499'>PubMedLink</a>","NA"," tarbase ","mirtarbase tarbase "
+171023,"ASXL1","hsa-mir-195-5p","hsa-mir-29b-1-5p",0.798,0.043,0,FALSE,"NA","NA","NA","mirtarbase tarbase "," tarbase "
+192670,"AGO4","hsa-mir-3065-5p","hsa-mir-424-5p",0.0505,0.4875,0.0055,FALSE,"NA","NA","NA"," tarbase ","mirtarbase tarbase "
+283373,"ANKRD52","hsa-mir-195-5p","hsa-mir-92a-1-5p",0.3165,0.533,0.0065,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+283373,"ANKRD52","hsa-mir-2355-5p","hsa-mir-106a-5p",0.045,0.855,0,FALSE,"NA","NA","NA"," tarbase ","mirtarbase tarbase "
+283373,"ANKRD52","hsa-mir-3065-3p","hsa-mir-491-5p",0.7035,0.632,0.005,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+283373,"ANKRD52","hsa-mir-92a-1-5p","hsa-mir-199a-3p",0.467,0.1665,0.001,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+284058,"KANSL1","hsa-mir-513a-3p","hsa-mir-942-5p",0.28,0.2705,0.001,FALSE,"NA","NA","NA","mirtarbase  "," tarbase "
+285636,"C5orf51","hsa-mir-2355-5p","hsa-mir-129-5p",0.5805,0.958,0.0075,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+340252,"ZNF680","hsa-mir-33b-5p","hsa-mir-194-5p",0.459,0.655,0.004,TRUE,"NA","NA","NA"," tarbase "," tarbase "
+359948,"IRF2BP2","hsa-mir-3127-5p","hsa-mir-1226-3p",0.074,0.1305,0.007,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+359948,"IRF2BP2","hsa-mir-503-5p","hsa-mir-1226-3p",0.502,0.108,0.0065,FALSE,"NA","NA","NA"," tarbase ","mirtarbase  "
+374900,"ZNF568","hsa-mir-766-3p","hsa-mir-335-5p",0.5685,0.0845,0.002,TRUE,"NA","NA","NA"," tarbase ","mirtarbase tarbase "
+494470,"RNF165","hsa-mir-708-5p","hsa-mir-335-3p",0.172,0.9775,0.007,FALSE,"NA","NA","NA","mirtarbase  ","mirtarbase  "
+642273,"FAM110C","hsa-mir-301a-3p","hsa-mir-363-3p",0.422,0.2855,0.0025,FALSE,"NA","NA","NA"," tarbase "," tarbase "
+100463486,"MTRNR2L8","hsa-mir-450b-5p","hsa-mir-196a-5p",0.691,0.719,0.0035,FALSE,"NA","NA","NA"," tarbase "," tarbase "

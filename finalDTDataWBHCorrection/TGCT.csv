@@ -1,0 +1,437 @@
+entrezgene_id,hgnc_symbol,mirna1,mirna2,Lancaster_XY_Z,is_mrna_tf,mrnaLiterature,miRNA1_mRNA_DB,miRNA2_mRNA_DB,BH_pvalues_adjusted,BH_rejected
+59,ACTA2,hsa-mir-376c-3p,hsa-mir-377-3p,0.006,FALSE,NA,tarbase,tarbase,0.01713305412371134,TRUE
+93,ACVR2B,hsa-mir-200b-3p,hsa-mir-582-5p,5e-4,FALSE,NA,tarbase,tarbase,0.00205864591801184,TRUE
+93,ACVR2B,hsa-mir-582-5p,hsa-mir-196b-5p,0.0015,FALSE,NA,tarbase,mirtarbase tarbase,0.005383963824115,TRUE
+202,CRYBG1,hsa-mir-335-5p,hsa-mir-345-5p,0.001,FALSE,NA,tarbase,tarbase,0.0037967444849004,TRUE
+202,CRYBG1,hsa-mir-503-5p,hsa-mir-345-5p,0,FALSE,NA,tarbase,tarbase,0,TRUE
+595,CCND1,hsa-mir-141-5p,hsa-mir-486-3p,0,FALSE,<a href='https://pubmed.ncbi.nlm.nih.gov/20395447'>PubMedLink</a>,tarbase,tarbase,0,TRUE
+672,BRCA1,hsa-mir-181d-5p,hsa-mir-20b-5p,0,FALSE,<a href='https://pubmed.ncbi.nlm.nih.gov/29433971'>PubMedLink</a>,tarbase,mirtarbase tarbase,0,TRUE
+687,KLF9,hsa-mir-124-3p,hsa-mir-518e-3p,0.001,TRUE,NA,mirtarbase tarbase,tarbase,0.0037967444849004,TRUE
+718,C3,hsa-mir-127-5p,hsa-mir-485-5p,5e-4,FALSE,NA,mirtarbase,mirtarbase,0.00205864591801184,TRUE
+718,C3,hsa-mir-377-5p,hsa-mir-127-5p,0.001,FALSE,NA,mirtarbase,mirtarbase,0.0037967444849004,TRUE
+861,RUNX1,hsa-mir-34b-5p,hsa-mir-642a-5p,0.0045,TRUE,NA,tarbase,mirtarbase,0.01352976594301221,TRUE
+861,RUNX1,hsa-mir-642a-5p,hsa-mir-106a-5p,0.001,TRUE,NA,mirtarbase,mirtarbase tarbase,0.0037967444849004,TRUE
+867,CBL,hsa-mir-7-5p,hsa-mir-224-5p,5e-4,FALSE,NA,tarbase,tarbase,0.00205864591801184,TRUE
+894,CCND2,hsa-mir-204-5p,hsa-mir-497-5p,0.0025,FALSE,<a href='https://pubmed.ncbi.nlm.nih.gov/14670177'>PubMedLink</a>,tarbase,mirtarbase tarbase,0.00830200755565268,TRUE
+901,CCNG2,hsa-mir-183-3p,hsa-mir-1305,0.003,FALSE,NA,tarbase,tarbase,0.00965844356327753,TRUE
+908,CCT6A,hsa-mir-130b-3p,hsa-mir-766-3p,0,FALSE,NA,mirtarbase tarbase,tarbase,0,TRUE
+920,CD4,hsa-mir-204-5p,hsa-mir-485-5p,0.009,FALSE,NA,tarbase,mirtarbase,0.02382779907402797,TRUE
+1021,CDK6,hsa-mir-506-3p,hsa-mir-211-5p,0.0085,FALSE,NA,mirtarbase,mirtarbase,0.022739498968761,TRUE
+1303,COL12A1,hsa-mir-299-3p,hsa-mir-376a-3p,0,FALSE,NA,tarbase,tarbase,0,TRUE
+1303,COL12A1,hsa-mir-299-3p,hsa-mir-655-3p,0.004,FALSE,NA,tarbase,tarbase,0.01227348257558273,TRUE
+1303,COL12A1,hsa-mir-376b-3p,hsa-mir-299-3p,5e-4,FALSE,NA,tarbase,tarbase,0.00205864591801184,TRUE
+1303,COL12A1,hsa-mir-495-3p,hsa-mir-299-3p,0.004,FALSE,NA,tarbase,tarbase,0.01227348257558273,TRUE
+1374,CPT1A,hsa-mir-194-3p,hsa-mir-302a-3p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+1374,CPT1A,hsa-mir-194-3p,hsa-mir-302c-3p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+1374,CPT1A,hsa-mir-194-3p,hsa-mir-302d-3p,5e-4,FALSE,NA,mirtarbase,mirtarbase,0.00205864591801184,TRUE
+1482,NKX2-5,hsa-mir-1538,hsa-mir-663a,0.006,TRUE,NA,mirtarbase,mirtarbase,0.01713305412371134,TRUE
+1601,DAB2,hsa-mir-124-3p,hsa-mir-548d-3p,0.006,FALSE,NA,tarbase,tarbase,0.01713305412371134,TRUE
+1958,EGR1,hsa-mir-124-3p,hsa-mir-520d-5p,0.002,TRUE,NA,mirtarbase tarbase,tarbase,0.00687181806434939,TRUE
+1958,EGR1,hsa-mir-518a-3p,hsa-mir-192-5p,0.0065,TRUE,NA,tarbase,mirtarbase tarbase,0.01827912326159378,TRUE
+1958,EGR1,hsa-mir-518a-3p,hsa-mir-520d-5p,0.003,TRUE,NA,tarbase,tarbase,0.00965844356327753,TRUE
+1958,EGR1,hsa-mir-518b,hsa-mir-520d-5p,0.0045,TRUE,NA,tarbase,tarbase,0.01352976594301221,TRUE
+1958,EGR1,hsa-mir-518f-3p,hsa-mir-520d-5p,0.008,TRUE,NA,tarbase,tarbase,0.02165901338899353,TRUE
+1979,EIF4EBP2,hsa-mir-760,hsa-mir-766-3p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+1981,EIF4G1,hsa-mir-452-3p,hsa-mir-96-5p,0.0035,FALSE,NA,tarbase,mirtarbase,0.01098845858669343,TRUE
+1981,EIF4G1,hsa-mir-491-5p,hsa-mir-182-3p,0.008,FALSE,NA,tarbase,tarbase,0.02165901338899353,TRUE
+1999,ELF3,hsa-mir-629-5p,hsa-mir-124-3p,0.001,TRUE,NA,mirtarbase tarbase,mirtarbase tarbase,0.0037967444849004,TRUE
+2005,ELK4,hsa-mir-181a-2-3p,hsa-mir-651-5p,0.0075,TRUE,NA,tarbase,tarbase,0.02055066079295154,TRUE
+2180,ACSL1,hsa-mir-205-5p,hsa-mir-335-5p,0.003,FALSE,NA,mirtarbase,mirtarbase tarbase,0.00965844356327753,TRUE
+2195,FAT1,hsa-mir-194-3p,hsa-mir-7-5p,0,FALSE,NA,tarbase,tarbase,0,TRUE
+2195,FAT1,hsa-mir-9-5p,hsa-mir-7-5p,0,FALSE,NA,tarbase,tarbase,0,TRUE
+2239,GPC4,hsa-mir-548o-3p,hsa-mir-3065-3p,5e-4,FALSE,NA,mirtarbase,mirtarbase,0.00205864591801184,TRUE
+2274,FHL2,hsa-mir-486-3p,hsa-mir-3662,0.0065,FALSE,NA,tarbase,mirtarbase,0.01827912326159378,TRUE
+2289,FKBP5,hsa-mir-539-5p,hsa-mir-200c-3p,0.0015,FALSE,NA,mirtarbase,mirtarbase,0.005383963824115,TRUE
+2335,FN1,hsa-mir-124-3p,hsa-mir-7-5p,0,FALSE,NA,tarbase,tarbase,0,TRUE
+2935,GSPT1,hsa-mir-9-3p,hsa-mir-455-3p,0.0045,FALSE,<a href='https://pubmed.ncbi.nlm.nih.gov/26503584'>PubMedLink</a>,tarbase,tarbase,0.01352976594301221,TRUE
+2979,GUCA1B,hsa-mir-519e-5p,hsa-mir-515-5p,0.0015,FALSE,NA,mirtarbase,mirtarbase,0.005383963824115,TRUE
+3097,HIVEP2,hsa-mir-486-3p,hsa-mir-873-5p,0.0025,TRUE,NA,tarbase,tarbase,0.00830200755565268,TRUE
+3215,HOXB5,hsa-mir-3150b-3p,hsa-mir-513c-5p,0.008,TRUE,NA,mirtarbase,mirtarbase,0.02165901338899353,TRUE
+3224,HOXC8,hsa-mir-149-3p,hsa-mir-518b,0.006,TRUE,NA,mirtarbase,mirtarbase,0.01713305412371134,TRUE
+3224,HOXC8,hsa-mir-34b-5p,hsa-mir-518c-3p,5e-4,TRUE,NA,mirtarbase,mirtarbase,0.00205864591801184,TRUE
+3224,HOXC8,hsa-mir-518a-3p,hsa-mir-34b-5p,5e-4,TRUE,NA,mirtarbase,mirtarbase,0.00205864591801184,TRUE
+3224,HOXC8,hsa-mir-518b,hsa-mir-34b-5p,0.0015,TRUE,NA,mirtarbase,mirtarbase,0.005383963824115,TRUE
+3224,HOXC8,hsa-mir-518f-3p,hsa-mir-34b-5p,0.0015,TRUE,NA,mirtarbase,mirtarbase,0.005383963824115,TRUE
+3423,IDS,hsa-mir-18b-5p,hsa-mir-7-1-3p,0.005,FALSE,NA,tarbase,tarbase,0.01475610432852386,TRUE
+3455,IFNAR2,hsa-mir-629-5p,hsa-mir-219a-5p,0.0015,FALSE,NA,tarbase,tarbase,0.005383963824115,TRUE
+3479,IGF1,hsa-mir-3065-5p,hsa-mir-129-5p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+3479,IGF1,hsa-mir-3065-5p,hsa-mir-219a-1-3p,0.006,FALSE,NA,mirtarbase,tarbase,0.01713305412371134,TRUE
+3480,IGF1R,hsa-mir-494-3p,hsa-mir-653-5p,0.002,FALSE,NA,mirtarbase,tarbase,0.00687181806434939,TRUE
+3609,ILF3,hsa-mir-338-3p,hsa-mir-497-5p,0.008,FALSE,NA,tarbase,tarbase,0.02165901338899353,TRUE
+3710,ITPR3,hsa-mir-130b-5p,hsa-mir-940,0.005,FALSE,NA,tarbase,tarbase,0.01475610432852386,TRUE
+3710,ITPR3,hsa-mir-214-3p,hsa-mir-940,0.001,FALSE,NA,tarbase,tarbase,0.0037967444849004,TRUE
+3720,JARID2,hsa-mir-301b-3p,hsa-mir-449a,0.0045,FALSE,NA,mirtarbase tarbase,mirtarbase,0.01352976594301221,TRUE
+3779,KCNMB1,hsa-mir-302c-3p,hsa-mir-106a-5p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+3779,KCNMB1,hsa-mir-512-3p,hsa-mir-106a-5p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+3779,KCNMB1,hsa-mir-512-3p,hsa-mir-432-5p,5e-4,FALSE,NA,mirtarbase,mirtarbase,0.00205864591801184,TRUE
+3779,KCNMB1,hsa-mir-519d-3p,hsa-mir-20b-5p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+3779,KCNMB1,hsa-mir-519d-3p,hsa-mir-432-5p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+3779,KCNMB1,hsa-mir-519d-3p,hsa-mir-526b-3p,5e-4,FALSE,NA,mirtarbase,mirtarbase,0.00205864591801184,TRUE
+3779,KCNMB1,hsa-mir-520a-3p,hsa-mir-20b-5p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+3779,KCNMB1,hsa-mir-520c-3p,hsa-mir-106a-5p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+3779,KCNMB1,hsa-mir-520c-3p,hsa-mir-20b-5p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+3779,KCNMB1,hsa-mir-520c-3p,hsa-mir-432-5p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+3779,KCNMB1,hsa-mir-520d-3p,hsa-mir-106a-5p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+3779,KCNMB1,hsa-mir-520d-3p,hsa-mir-432-5p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+3779,KCNMB1,hsa-mir-526b-3p,hsa-mir-106a-5p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+3779,KCNMB1,hsa-mir-526b-3p,hsa-mir-302d-3p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+3779,KCNMB1,hsa-mir-526b-3p,hsa-mir-432-5p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+3779,KCNMB1,hsa-mir-526b-3p,hsa-mir-512-3p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+3788,KCNS2,hsa-mir-371a-5p,hsa-mir-548e-3p,0.003,FALSE,NA,mirtarbase,mirtarbase,0.00965844356327753,TRUE
+3824,KLRD1,hsa-mir-106a-5p,hsa-mir-301b-3p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+3824,KLRD1,hsa-mir-20b-5p,hsa-mir-301b-3p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+3920,LAMP2,hsa-mir-124-3p,hsa-mir-29b-3p,0.0075,FALSE,NA,mirtarbase tarbase,tarbase,0.02055066079295154,TRUE
+3990,LIPC,hsa-mir-512-5p,hsa-mir-3922-3p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+4012,LNPEP,hsa-mir-122-5p,hsa-mir-18a-3p,5e-4,FALSE,NA,tarbase,mirtarbase tarbase,0.00205864591801184,TRUE
+4026,LPP,hsa-mir-548b-3p,hsa-mir-7-5p,0,FALSE,NA,tarbase,tarbase,0,TRUE
+4026,LPP,hsa-mir-548e-3p,hsa-mir-7-5p,0.0065,FALSE,NA,tarbase,tarbase,0.01827912326159378,TRUE
+4067,LYN,hsa-mir-205-5p,hsa-let-7e-5p,0,FALSE,NA,mirtarbase,mirtarbase tarbase,0,TRUE
+4067,LYN,hsa-mir-320c,hsa-mir-205-5p,0.008,FALSE,NA,tarbase,mirtarbase,0.02165901338899353,TRUE
+4154,MBNL1,hsa-mir-122-5p,hsa-mir-1305,0.001,FALSE,NA,tarbase,tarbase,0.0037967444849004,TRUE
+4154,MBNL1,hsa-mir-1305,hsa-mir-335-5p,0.0025,FALSE,NA,tarbase,mirtarbase,0.00830200755565268,TRUE
+4154,MBNL1,hsa-mir-130b-3p,hsa-mir-335-5p,0.0035,FALSE,NA,mirtarbase tarbase,mirtarbase,0.01098845858669343,TRUE
+4154,MBNL1,hsa-mir-433-3p,hsa-mir-1305,0.0015,FALSE,NA,mirtarbase,tarbase,0.005383963824115,TRUE
+4154,MBNL1,hsa-mir-548d-3p,hsa-mir-187-3p,0.009,FALSE,NA,tarbase,tarbase,0.02382779907402797,TRUE
+4154,MBNL1,hsa-mir-7-1-3p,hsa-mir-92b-3p,0.001,FALSE,NA,tarbase,mirtarbase tarbase,0.0037967444849004,TRUE
+4170,MCL1,hsa-mir-873-5p,hsa-mir-494-3p,0.0065,FALSE,NA,tarbase,tarbase,0.01827912326159378,TRUE
+4238,MFAP3,hsa-mir-7-5p,hsa-mir-96-5p,0.0065,FALSE,NA,tarbase,tarbase,0.01827912326159378,TRUE
+4286,MITF,hsa-mir-182-5p,hsa-mir-200c-3p,0,TRUE,NA,mirtarbase tarbase,tarbase,0,TRUE
+4297,KMT2A,hsa-mir-486-3p,hsa-mir-219a-5p,0.0025,TRUE,NA,tarbase,tarbase,0.00830200755565268,TRUE
+4297,KMT2A,hsa-mir-942-5p,hsa-mir-219a-5p,0.004,TRUE,NA,tarbase,tarbase,0.01227348257558273,TRUE
+4585,MUC4,hsa-mir-3614-3p,hsa-mir-219a-1-3p,0.0045,FALSE,NA,mirtarbase,mirtarbase,0.01352976594301221,TRUE
+4609,MYC,hsa-mir-1248,hsa-mir-29a-3p,0.002,TRUE,NA,mirtarbase tarbase,mirtarbase,0.00687181806434939,TRUE
+4609,MYC,hsa-mir-1248,hsa-mir-29b-3p,0.003,TRUE,NA,mirtarbase tarbase,mirtarbase tarbase,0.00965844356327753,TRUE
+4763,NF1,hsa-mir-873-5p,hsa-mir-486-5p,0.003,FALSE,NA,tarbase,tarbase,0.00965844356327753,TRUE
+4771,NF2,hsa-mir-452-3p,hsa-mir-92b-3p,5e-4,FALSE,NA,tarbase,mirtarbase,0.00205864591801184,TRUE
+4939,OAS2,hsa-mir-106a-5p,hsa-mir-1224-5p,0.0045,FALSE,NA,tarbase,tarbase,0.01352976594301221,TRUE
+4939,OAS2,hsa-mir-1224-5p,hsa-mir-335-5p,0.005,FALSE,NA,tarbase,mirtarbase tarbase,0.01475610432852386,TRUE
+4939,OAS2,hsa-mir-219a-1-3p,hsa-mir-1224-5p,0.0025,FALSE,NA,tarbase,tarbase,0.00830200755565268,TRUE
+4973,OLR1,hsa-mir-651-5p,hsa-mir-616-5p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+4983,OPHN1,hsa-mir-1269a,hsa-mir-548o-3p,0.003,FALSE,NA,mirtarbase,mirtarbase,0.00965844356327753,TRUE
+4983,OPHN1,hsa-mir-1269a,hsa-mir-92a-1-5p,0.001,FALSE,NA,mirtarbase,mirtarbase,0.0037967444849004,TRUE
+5010,CLDN11,hsa-mir-377-3p,hsa-mir-154-3p,0.001,FALSE,NA,tarbase,tarbase,0.0037967444849004,TRUE
+5324,PLAG1,hsa-mir-1269a,hsa-mir-29c-3p,0.005,TRUE,NA,tarbase,mirtarbase tarbase,0.01475610432852386,TRUE
+5451,POU2F1,hsa-mir-497-3p,hsa-mir-224-5p,0.004,TRUE,NA,mirtarbase tarbase,tarbase,0.01227348257558273,TRUE
+5795,PTPRJ,hsa-mir-133a-3p,hsa-mir-367-3p,0.0095,FALSE,NA,tarbase,tarbase,0.0248931782907541,TRUE
+5813,PURA,hsa-mir-616-5p,hsa-mir-188-3p,0.006,TRUE,NA,tarbase,mirtarbase,0.01713305412371134,TRUE
+5915,RARB,hsa-mir-195-5p,hsa-mir-424-5p,5e-4,TRUE,NA,mirtarbase,mirtarbase,0.00205864591801184,TRUE
+6132,RPL8,hsa-mir-138-5p,hsa-mir-3065-3p,0.0015,FALSE,NA,tarbase,tarbase,0.005383963824115,TRUE
+6182,MRPL12,hsa-mir-1226-3p,hsa-mir-125b-2-3p,0.001,FALSE,NA,tarbase,mirtarbase,0.0037967444849004,TRUE
+6319,SCD,hsa-mir-224-5p,hsa-mir-196b-5p,0.003,FALSE,NA,tarbase,tarbase,0.00965844356327753,TRUE
+6367,CCL22,hsa-mir-1271-5p,hsa-mir-149-3p,0.0055,FALSE,NA,mirtarbase,mirtarbase,0.01596242632612966,TRUE
+6513,SLC2A1,hsa-mir-1538,hsa-mir-1291,0.002,FALSE,NA,mirtarbase,mirtarbase tarbase,0.00687181806434939,TRUE
+6648,SOD2,hsa-mir-299-5p,hsa-mir-204-5p,0.0025,FALSE,NA,tarbase,mirtarbase tarbase,0.00830200755565268,TRUE
+6648,SOD2,hsa-mir-577,hsa-mir-204-5p,0.0045,FALSE,NA,mirtarbase,mirtarbase tarbase,0.01352976594301221,TRUE
+6672,SP100,hsa-mir-18b-5p,hsa-mir-335-3p,0.003,TRUE,NA,mirtarbase,tarbase,0.00965844356327753,TRUE
+6720,SREBF1,hsa-mir-342-5p,hsa-mir-495-3p,0.007,TRUE,NA,mirtarbase tarbase,mirtarbase,0.0194253287413901,TRUE
+6838,SURF6,hsa-mir-493-3p,hsa-mir-940,0.001,FALSE,NA,tarbase,tarbase,0.0037967444849004,TRUE
+6867,TACC1,hsa-mir-20b-5p,hsa-mir-96-5p,0.002,FALSE,NA,tarbase,tarbase,0.00687181806434939,TRUE
+6867,TACC1,hsa-mir-548j-5p,hsa-mir-500a-5p,0.007,FALSE,NA,tarbase,mirtarbase tarbase,0.0194253287413901,TRUE
+7037,TFRC,hsa-mir-124-3p,hsa-mir-615-3p,0.004,FALSE,NA,tarbase,tarbase,0.01227348257558273,TRUE
+7037,TFRC,hsa-mir-615-3p,hsa-mir-7-5p,0.0015,FALSE,NA,tarbase,mirtarbase,0.005383963824115,TRUE
+7070,THY1,hsa-mir-33b-3p,hsa-mir-139-3p,0.004,FALSE,NA,mirtarbase,mirtarbase,0.01227348257558273,TRUE
+7094,TLN1,hsa-mir-182-5p,hsa-mir-1271-5p,0.005,FALSE,NA,tarbase,tarbase,0.01475610432852386,TRUE
+7094,TLN1,hsa-mir-182-5p,hsa-mir-370-3p,5e-4,FALSE,NA,tarbase,tarbase,0.00205864591801184,TRUE
+7094,TLN1,hsa-mir-182-5p,hsa-mir-432-5p,0,FALSE,NA,tarbase,tarbase,0,TRUE
+7128,TNFAIP3,hsa-mir-940,hsa-mir-519a-5p,0.006,FALSE,NA,tarbase,mirtarbase,0.01713305412371134,TRUE
+7158,TP53BP1,hsa-mir-29b-3p,hsa-mir-96-5p,0,FALSE,NA,tarbase,tarbase,0,TRUE
+7158,TP53BP1,hsa-mir-96-5p,hsa-mir-29a-3p,0.004,FALSE,NA,tarbase,tarbase,0.01227348257558273,TRUE
+7421,VDR,hsa-mir-302c-3p,hsa-mir-122-5p,0,TRUE,NA,tarbase,mirtarbase,0,TRUE
+7428,VHL,hsa-mir-1248,hsa-mir-767-5p,0.003,FALSE,NA,mirtarbase,mirtarbase,0.00965844356327753,TRUE
+7428,VHL,hsa-mir-301b-3p,hsa-mir-767-5p,0,FALSE,NA,tarbase,mirtarbase,0,TRUE
+7764,ZNF217,hsa-mir-192-3p,hsa-mir-577,0,TRUE,NA,tarbase,tarbase,0,TRUE
+7832,BTG2,hsa-mir-106a-5p,hsa-mir-3609,0.007,FALSE,NA,mirtarbase,mirtarbase tarbase,0.0194253287413901,TRUE
+7832,BTG2,hsa-mir-18b-5p,hsa-mir-3609,0.0075,FALSE,NA,tarbase,mirtarbase tarbase,0.02055066079295154,TRUE
+7832,BTG2,hsa-mir-3609,hsa-mir-195-5p,0.007,FALSE,NA,mirtarbase tarbase,mirtarbase tarbase,0.0194253287413901,TRUE
+7832,BTG2,hsa-mir-3609,hsa-mir-9-3p,0,FALSE,NA,mirtarbase tarbase,tarbase,0,TRUE
+7832,BTG2,hsa-mir-3609,hsa-mir-9-5p,0,FALSE,NA,mirtarbase tarbase,tarbase,0,TRUE
+7832,BTG2,hsa-mir-497-5p,hsa-mir-3609,0.0075,FALSE,NA,tarbase,mirtarbase tarbase,0.02055066079295154,TRUE
+8106,PABPN1,hsa-mir-935,hsa-mir-497-5p,0,FALSE,NA,tarbase,tarbase,0,TRUE
+8204,NRIP1,hsa-mir-651-5p,hsa-mir-7-5p,0.006,FALSE,NA,mirtarbase,tarbase,0.01713305412371134,TRUE
+8323,FZD6,hsa-mir-205-3p,hsa-mir-651-5p,0.0065,FALSE,NA,mirtarbase,tarbase,0.01827912326159378,TRUE
+8490,RGS5,hsa-mir-1243,hsa-mir-663a,0.0095,FALSE,NA,mirtarbase,mirtarbase,0.0248931782907541,TRUE
+8553,BHLHE40,hsa-mir-629-5p,hsa-mir-767-3p,0.0085,TRUE,NA,tarbase,mirtarbase,0.022739498968761,TRUE
+8693,GALNT4,hsa-mir-18b-3p,hsa-mir-2113,0.0015,FALSE,NA,mirtarbase,mirtarbase,0.005383963824115,TRUE
+8853,ASAP2,hsa-mir-29b-3p,hsa-mir-373-3p,0.006,FALSE,NA,tarbase,tarbase,0.01713305412371134,TRUE
+8853,ASAP2,hsa-mir-373-3p,hsa-mir-323a-5p,0.0035,FALSE,NA,tarbase,tarbase,0.01098845858669343,TRUE
+8853,ASAP2,hsa-mir-373-3p,hsa-mir-487a-3p,0.0025,FALSE,NA,tarbase,tarbase,0.00830200755565268,TRUE
+9031,BAZ1B,hsa-mir-3065-5p,hsa-mir-34c-5p,5e-4,FALSE,NA,tarbase,tarbase,0.00205864591801184,TRUE
+9052,GPRC5A,hsa-let-7e-5p,hsa-let-7c-5p,0.002,FALSE,NA,tarbase,tarbase,0.00687181806434939,TRUE
+9052,GPRC5A,hsa-let-7e-5p,hsa-mir-152-3p,5e-4,FALSE,NA,tarbase,mirtarbase,0.00205864591801184,TRUE
+9052,GPRC5A,hsa-let-7e-5p,hsa-mir-582-5p,0.001,FALSE,NA,tarbase,tarbase,0.0037967444849004,TRUE
+9052,GPRC5A,hsa-mir-34b-3p,hsa-mir-455-5p,0.006,FALSE,NA,mirtarbase,tarbase,0.01713305412371134,TRUE
+9052,GPRC5A,hsa-mir-424-5p,hsa-mir-500b-5p,0.004,FALSE,NA,mirtarbase,mirtarbase,0.01227348257558273,TRUE
+9052,GPRC5A,hsa-mir-500b-5p,hsa-mir-301a-3p,0.0075,FALSE,NA,mirtarbase,mirtarbase tarbase,0.02055066079295154,TRUE
+9052,GPRC5A,hsa-mir-500b-5p,hsa-mir-582-5p,0,FALSE,NA,mirtarbase,tarbase,0,TRUE
+9052,GPRC5A,hsa-mir-940,hsa-mir-500b-5p,0.002,FALSE,NA,mirtarbase tarbase,mirtarbase,0.00687181806434939,TRUE
+9424,KCNK6,hsa-mir-20b-5p,hsa-mir-211-5p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+9424,KCNK6,hsa-mir-211-5p,hsa-mir-106a-5p,0.001,FALSE,NA,mirtarbase,mirtarbase,0.0037967444849004,TRUE
+9424,KCNK6,hsa-mir-302b-3p,hsa-mir-211-5p,5e-4,FALSE,NA,mirtarbase,mirtarbase,0.00205864591801184,TRUE
+9481,SLC25A27,hsa-mir-410-3p,hsa-mir-122-5p,0.006,FALSE,NA,mirtarbase,tarbase,0.01713305412371134,TRUE
+9530,BAG4,hsa-mir-429,hsa-mir-9-5p,0,FALSE,NA,mirtarbase,tarbase,0,TRUE
+9655,SOCS5,hsa-mir-373-3p,hsa-mir-106a-5p,0.002,FALSE,NA,mirtarbase,mirtarbase,0.00687181806434939,TRUE
+9655,SOCS5,hsa-mir-373-3p,hsa-mir-20b-5p,0,FALSE,NA,mirtarbase,mirtarbase tarbase,0,TRUE
+9839,ZEB2,hsa-mir-205-5p,hsa-mir-122-5p,0,TRUE,NA,mirtarbase,tarbase,0,TRUE
+9852,EPM2AIP1,hsa-mir-141-3p,hsa-mir-92b-3p,0.0025,FALSE,NA,tarbase,mirtarbase,0.00830200755565268,TRUE
+9865,TRIL,hsa-mir-29a-3p,hsa-mir-29b-3p,0.001,FALSE,NA,tarbase,tarbase,0.0037967444849004,TRUE
+9865,TRIL,hsa-mir-29c-3p,hsa-mir-29a-3p,0.0035,FALSE,NA,tarbase,tarbase,0.01098845858669343,TRUE
+9865,TRIL,hsa-mir-29c-3p,hsa-mir-29b-3p,0.0095,FALSE,NA,tarbase,tarbase,0.0248931782907541,TRUE
+10000,AKT3,hsa-mir-124-3p,hsa-mir-497-5p,0.0035,FALSE,NA,mirtarbase,mirtarbase tarbase,0.01098845858669343,TRUE
+10000,AKT3,hsa-mir-124-3p,hsa-mir-548d-3p,0.006,FALSE,NA,mirtarbase,tarbase,0.01713305412371134,TRUE
+10123,ARL4C,hsa-mir-302c-3p,hsa-mir-486-3p,0.001,FALSE,NA,tarbase,mirtarbase,0.0037967444849004,TRUE
+10395,DLC1,hsa-mir-138-5p,hsa-mir-499a-3p,0.0025,FALSE,NA,tarbase,tarbase,0.00830200755565268,TRUE
+10397,NDRG1,hsa-mir-20b-5p,hsa-mir-9-5p,0.0065,FALSE,NA,tarbase,tarbase,0.01827912326159378,TRUE
+10397,NDRG1,hsa-mir-9-5p,hsa-mir-548f-3p,0,FALSE,NA,tarbase,mirtarbase,0,TRUE
+10525,HYOU1,hsa-mir-135a-5p,hsa-mir-940,0.0035,FALSE,NA,tarbase,tarbase,0.01098845858669343,TRUE
+10525,HYOU1,hsa-mir-424-5p,hsa-mir-940,0,FALSE,NA,tarbase,tarbase,0,TRUE
+10525,HYOU1,hsa-mir-429,hsa-mir-424-5p,0.0025,FALSE,NA,tarbase,tarbase,0.00830200755565268,TRUE
+10525,HYOU1,hsa-mir-429,hsa-mir-940,0.008,FALSE,NA,tarbase,tarbase,0.02165901338899353,TRUE
+10525,HYOU1,hsa-mir-676-3p,hsa-mir-940,0.006,FALSE,NA,tarbase,tarbase,0.01713305412371134,TRUE
+10525,HYOU1,hsa-mir-760,hsa-mir-497-5p,0.0095,FALSE,NA,mirtarbase tarbase,tarbase,0.0248931782907541,TRUE
+10525,HYOU1,hsa-mir-760,hsa-mir-940,0.0015,FALSE,NA,mirtarbase tarbase,tarbase,0.005383963824115,TRUE
+10618,TGOLN2,hsa-mir-193b-5p,hsa-mir-301b-3p,5e-4,FALSE,NA,tarbase,tarbase,0.00205864591801184,TRUE
+10628,TXNIP,hsa-mir-1305,hsa-mir-935,0.0045,FALSE,NA,tarbase,tarbase,0.01352976594301221,TRUE
+10628,TXNIP,hsa-mir-134-5p,hsa-mir-135b-5p,0.004,FALSE,NA,mirtarbase,mirtarbase tarbase,0.01227348257558273,TRUE
+10628,TXNIP,hsa-mir-345-5p,hsa-mir-18b-5p,0,FALSE,NA,tarbase,mirtarbase,0,TRUE
+10628,TXNIP,hsa-mir-935,hsa-mir-18b-5p,0.001,FALSE,NA,tarbase,mirtarbase,0.0037967444849004,TRUE
+10642,IGF2BP1,hsa-mir-224-5p,hsa-mir-615-3p,0.0055,FALSE,NA,tarbase,mirtarbase,0.01596242632612966,TRUE
+10725,NFAT5,hsa-mir-519c-3p,hsa-mir-183-5p,0.0085,TRUE,NA,mirtarbase,tarbase,0.022739498968761,TRUE
+10797,MTHFD2,hsa-mir-136-5p,hsa-mir-1224-5p,0,FALSE,NA,tarbase,tarbase,0,TRUE
+10955,SERINC3,hsa-mir-500b-5p,hsa-mir-216a-5p,0.007,FALSE,NA,tarbase,tarbase,0.0194253287413901,TRUE
+11057,ABHD2,hsa-mir-195-5p,hsa-mir-629-3p,0.0035,FALSE,NA,mirtarbase,mirtarbase,0.01098845858669343,TRUE
+11067,DEPP1,hsa-mir-449a,hsa-mir-141-5p,5e-4,FALSE,NA,tarbase,mirtarbase,0.00205864591801184,TRUE
+11078,TRIOBP,hsa-mir-296-3p,hsa-mir-302b-3p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+11078,TRIOBP,hsa-mir-296-3p,hsa-mir-302d-3p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+11078,TRIOBP,hsa-mir-302c-3p,hsa-mir-296-3p,0.001,FALSE,NA,mirtarbase,mirtarbase,0.0037967444849004,TRUE
+22806,IKZF3,hsa-mir-665,hsa-mir-149-3p,0.0055,TRUE,NA,mirtarbase,mirtarbase,0.01596242632612966,TRUE
+22824,HSPA4L,hsa-mir-1185-5p,hsa-mir-450b-5p,0.004,FALSE,<a href='https://pubmed.ncbi.nlm.nih.gov/11389747'>PubMedLink</a>,mirtarbase,tarbase,0.01227348257558273,TRUE
+22824,HSPA4L,hsa-mir-889-3p,hsa-mir-302c-3p,0.009,FALSE,<a href='https://pubmed.ncbi.nlm.nih.gov/11389747'>PubMedLink</a>,mirtarbase,mirtarbase,0.02382779907402797,TRUE
+22903,BTBD3,hsa-mir-31-5p,hsa-mir-548d-3p,0.007,FALSE,NA,tarbase,mirtarbase,0.0194253287413901,TRUE
+23008,KLHDC10,hsa-mir-18b-5p,hsa-mir-31-5p,0.0095,FALSE,NA,tarbase,mirtarbase,0.0248931782907541,TRUE
+23049,SMG1,hsa-mir-1271-5p,hsa-mir-141-3p,0,FALSE,NA,tarbase,tarbase,0,TRUE
+23049,SMG1,hsa-mir-548j-5p,hsa-mir-130b-3p,0.001,FALSE,NA,mirtarbase,tarbase,0.0037967444849004,TRUE
+23049,SMG1,hsa-mir-548j-5p,hsa-mir-744-3p,0.0045,FALSE,NA,mirtarbase,tarbase,0.01352976594301221,TRUE
+23085,ERC1,hsa-mir-370-3p,hsa-mir-29a-3p,0.008,FALSE,NA,tarbase,tarbase,0.02165901338899353,TRUE
+23089,PEG10,hsa-mir-1323,hsa-mir-182-5p,0,FALSE,NA,mirtarbase,tarbase,0,TRUE
+23089,PEG10,hsa-mir-1323,hsa-mir-548j-5p,0.002,FALSE,NA,mirtarbase,mirtarbase,0.00687181806434939,TRUE
+23089,PEG10,hsa-mir-1323,hsa-mir-942-5p,0,FALSE,NA,mirtarbase,tarbase,0,TRUE
+23089,PEG10,hsa-mir-182-5p,hsa-mir-516b-5p,0,FALSE,NA,tarbase,tarbase,0,TRUE
+23089,PEG10,hsa-mir-34c-3p,hsa-mir-516b-5p,0.002,FALSE,NA,tarbase,tarbase,0.00687181806434939,TRUE
+23089,PEG10,hsa-mir-378a-3p,hsa-mir-1323,0.003,FALSE,NA,tarbase,mirtarbase,0.00965844356327753,TRUE
+23089,PEG10,hsa-mir-378a-3p,hsa-mir-182-5p,0.004,FALSE,NA,tarbase,tarbase,0.01227348257558273,TRUE
+23089,PEG10,hsa-mir-378a-3p,hsa-mir-548o-3p,0.009,FALSE,NA,tarbase,mirtarbase,0.02382779907402797,TRUE
+23089,PEG10,hsa-mir-942-5p,hsa-mir-516b-5p,0.0045,FALSE,NA,tarbase,tarbase,0.01352976594301221,TRUE
+23095,KIF1B,hsa-mir-511-5p,hsa-mir-483-3p,0.0025,FALSE,NA,mirtarbase,tarbase,0.00830200755565268,TRUE
+23175,LPIN1,hsa-mir-3065-3p,hsa-mir-129-5p,0.0085,FALSE,NA,tarbase,mirtarbase,0.022739498968761,TRUE
+23314,SATB2,hsa-mir-31-5p,hsa-mir-3609,0.0075,TRUE,NA,mirtarbase,mirtarbase,0.02055066079295154,TRUE
+23336,SYNM,hsa-mir-33b-3p,hsa-mir-34c-3p,0.002,FALSE,NA,mirtarbase,mirtarbase,0.00687181806434939,TRUE
+23336,SYNM,hsa-mir-33b-3p,hsa-mir-3662,0.0045,FALSE,NA,mirtarbase,mirtarbase,0.01352976594301221,TRUE
+23336,SYNM,hsa-mir-96-5p,hsa-mir-33b-3p,0.0015,FALSE,NA,mirtarbase,mirtarbase,0.005383963824115,TRUE
+23336,SYNM,hsa-mir-96-5p,hsa-mir-3662,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+23352,UBR4,hsa-mir-224-5p,hsa-mir-497-5p,0.0025,FALSE,NA,tarbase,tarbase,0.00830200755565268,TRUE
+23405,DICER1,hsa-mir-18b-5p,hsa-mir-7-1-3p,0,FALSE,NA,tarbase,tarbase,0,TRUE
+23405,DICER1,hsa-mir-29b-3p,hsa-mir-215-5p,0.0035,FALSE,NA,tarbase,mirtarbase tarbase,0.01098845858669343,TRUE
+23555,TSPAN15,hsa-mir-548b-3p,hsa-mir-18b-3p,0.0025,FALSE,NA,tarbase,tarbase,0.00830200755565268,TRUE
+23607,CD2AP,hsa-mir-301a-3p,hsa-mir-92b-3p,0.002,FALSE,NA,tarbase,mirtarbase tarbase,0.00687181806434939,TRUE
+23607,CD2AP,hsa-mir-92b-3p,hsa-mir-301b-3p,5e-4,FALSE,NA,mirtarbase tarbase,tarbase,0.00205864591801184,TRUE
+23633,KPNA6,hsa-mir-150-5p,hsa-mir-452-3p,0.0035,FALSE,NA,mirtarbase,tarbase,0.01098845858669343,TRUE
+25777,SUN2,hsa-mir-3660,hsa-mir-130b-3p,0.0075,FALSE,NA,mirtarbase,mirtarbase,0.02055066079295154,TRUE
+25834,MGAT4C,hsa-mir-410-3p,hsa-mir-381-3p,5e-4,FALSE,NA,mirtarbase,mirtarbase,0.00205864591801184,TRUE
+25890,ABI3BP,hsa-mir-376b-3p,hsa-mir-376a-3p,0.001,FALSE,NA,tarbase,tarbase,0.0037967444849004,TRUE
+25932,CLIC4,hsa-mir-122-5p,hsa-mir-9-5p,0.007,FALSE,NA,mirtarbase tarbase,tarbase,0.0194253287413901,TRUE
+26020,LRP10,hsa-mir-29b-3p,hsa-mir-548b-3p,0.005,FALSE,NA,mirtarbase,mirtarbase,0.01475610432852386,TRUE
+26585,GREM1,hsa-mir-124-3p,hsa-mir-7-5p,5e-4,FALSE,NA,mirtarbase tarbase,tarbase,0.00205864591801184,TRUE
+26585,GREM1,hsa-mir-299-3p,hsa-mir-7-5p,0.0025,FALSE,NA,tarbase,tarbase,0.00830200755565268,TRUE
+26585,GREM1,hsa-mir-33b-3p,hsa-mir-7-5p,0.004,FALSE,NA,tarbase,tarbase,0.01227348257558273,TRUE
+26585,GREM1,hsa-mir-665,hsa-mir-299-3p,0.004,FALSE,NA,tarbase,tarbase,0.01227348257558273,TRUE
+26973,CHORDC1,hsa-mir-199a-3p,hsa-mir-338-3p,0,FALSE,NA,tarbase,tarbase,0,TRUE
+26973,CHORDC1,hsa-mir-199b-3p,hsa-mir-338-3p,0,FALSE,NA,tarbase,tarbase,0,TRUE
+28962,OSTM1,hsa-mir-129-5p,hsa-mir-194-5p,0,FALSE,NA,mirtarbase,tarbase,0,TRUE
+29841,GRHL1,hsa-mir-99a-5p,hsa-mir-192-5p,0.0025,TRUE,NA,mirtarbase tarbase,mirtarbase tarbase,0.00830200755565268,TRUE
+29956,CERS2,hsa-mir-320d,hsa-mir-96-5p,0,FALSE,NA,tarbase,tarbase,0,TRUE
+30061,SLC40A1,hsa-mir-20b-5p,hsa-mir-92b-3p,0,FALSE,NA,tarbase,tarbase,0,TRUE
+51232,CRIM1,hsa-mir-302d-5p,hsa-mir-18b-5p,0.004,FALSE,NA,tarbase,mirtarbase tarbase,0.01227348257558273,TRUE
+51301,GCNT4,hsa-mir-106a-5p,hsa-mir-372-3p,0.007,FALSE,NA,tarbase,tarbase,0.0194253287413901,TRUE
+51301,GCNT4,hsa-mir-20b-5p,hsa-mir-372-3p,5e-4,FALSE,NA,tarbase,tarbase,0.00205864591801184,TRUE
+51427,ZNF107,hsa-mir-106a-5p,hsa-mir-181d-5p,0.009,TRUE,NA,mirtarbase tarbase,mirtarbase tarbase,0.02382779907402797,TRUE
+51557,LGSN,hsa-mir-526b-3p,hsa-mir-378a-3p,0.003,FALSE,NA,mirtarbase,mirtarbase,0.00965844356327753,TRUE
+51776,MAP3K20,hsa-mir-92b-3p,hsa-mir-106a-5p,0.0025,FALSE,NA,tarbase,tarbase,0.00830200755565268,TRUE
+51804,SIX4,hsa-mir-548j-5p,hsa-mir-301b-3p,0,TRUE,NA,mirtarbase,tarbase,0,TRUE
+54521,WDR44,hsa-mir-335-3p,hsa-mir-192-5p,0,FALSE,NA,tarbase,mirtarbase tarbase,0,TRUE
+54742,LY6K,hsa-let-7c-5p,hsa-let-7e-5p,0.007,FALSE,NA,tarbase,tarbase,0.0194253287413901,TRUE
+54742,LY6K,hsa-let-7c-5p,hsa-mir-219a-1-3p,0,FALSE,NA,tarbase,tarbase,0,TRUE
+54813,KLHL28,hsa-mir-302c-3p,hsa-mir-29b-3p,0.007,FALSE,NA,mirtarbase tarbase,tarbase,0.0194253287413901,TRUE
+54941,RNF125,hsa-mir-20b-5p,hsa-mir-766-3p,0.009,FALSE,NA,tarbase,mirtarbase,0.02382779907402797,TRUE
+55033,FKBP14,hsa-mir-20b-5p,hsa-mir-373-3p,0.001,FALSE,NA,mirtarbase tarbase,mirtarbase,0.0037967444849004,TRUE
+55033,FKBP14,hsa-mir-302c-3p,hsa-mir-372-3p,0.002,FALSE,NA,mirtarbase,mirtarbase,0.00687181806434939,TRUE
+55033,FKBP14,hsa-mir-302d-3p,hsa-mir-142-3p,0.001,FALSE,NA,mirtarbase,mirtarbase,0.0037967444849004,TRUE
+55033,FKBP14,hsa-mir-302d-3p,hsa-mir-372-3p,0.002,FALSE,NA,mirtarbase,mirtarbase,0.00687181806434939,TRUE
+55033,FKBP14,hsa-mir-302d-3p,hsa-mir-373-3p,5e-4,FALSE,NA,mirtarbase,mirtarbase,0.00205864591801184,TRUE
+55033,FKBP14,hsa-mir-302d-3p,hsa-mir-629-3p,0.002,FALSE,NA,mirtarbase,mirtarbase,0.00687181806434939,TRUE
+55033,FKBP14,hsa-mir-373-3p,hsa-mir-106a-5p,0.001,FALSE,NA,mirtarbase,mirtarbase tarbase,0.0037967444849004,TRUE
+55033,FKBP14,hsa-mir-373-3p,hsa-mir-302a-3p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+55033,FKBP14,hsa-mir-512-3p,hsa-mir-302c-3p,0.001,FALSE,NA,mirtarbase,mirtarbase,0.0037967444849004,TRUE
+55033,FKBP14,hsa-mir-520d-3p,hsa-mir-302c-3p,0.0015,FALSE,NA,mirtarbase,mirtarbase,0.005383963824115,TRUE
+55033,FKBP14,hsa-mir-629-3p,hsa-mir-302a-3p,0.001,FALSE,NA,mirtarbase,mirtarbase,0.0037967444849004,TRUE
+55147,RBM23,hsa-mir-301b-3p,hsa-mir-371a-5p,0.005,FALSE,NA,mirtarbase,mirtarbase,0.01475610432852386,TRUE
+55147,RBM23,hsa-mir-301b-3p,hsa-mir-373-5p,0.002,FALSE,NA,mirtarbase,mirtarbase,0.00687181806434939,TRUE
+55183,RIF1,hsa-mir-106a-5p,hsa-mir-181d-5p,0,FALSE,NA,tarbase,tarbase,0,TRUE
+55183,RIF1,hsa-mir-181d-5p,hsa-mir-149-3p,0.0015,FALSE,NA,tarbase,mirtarbase,0.005383963824115,TRUE
+55603,TENT5A,hsa-mir-486-5p,hsa-mir-92b-3p,0.007,FALSE,NA,mirtarbase,mirtarbase tarbase,0.0194253287413901,TRUE
+55636,CHD7,hsa-mir-378c,hsa-mir-411-3p,0.001,FALSE,NA,tarbase,tarbase,0.0037967444849004,TRUE
+55636,CHD7,hsa-mir-378c,hsa-mir-671-3p,0.0095,FALSE,NA,tarbase,tarbase,0.0248931782907541,TRUE
+55667,DENND4C,hsa-mir-142-5p,hsa-mir-320d,0.0075,FALSE,NA,tarbase,tarbase,0.02055066079295154,TRUE
+55729,ATF7IP,hsa-mir-497-3p,hsa-mir-200b-3p,0.006,FALSE,"<a href='https://pubmed.ncbi.nlm.nih.gov/23640991'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/23666240'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/28604728'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/28604732'>PubMedLink</a>",tarbase,tarbase,0.01713305412371134,TRUE
+55870,ASH1L,hsa-mir-302c-3p,hsa-mir-18a-3p,0.008,TRUE,NA,tarbase,tarbase,0.02165901338899353,TRUE
+55870,ASH1L,hsa-mir-302c-3p,hsa-mir-195-5p,0.0015,TRUE,NA,tarbase,mirtarbase tarbase,0.005383963824115,TRUE
+55870,ASH1L,hsa-mir-302d-3p,hsa-mir-18a-3p,5e-4,TRUE,NA,tarbase,tarbase,0.00205864591801184,TRUE
+55870,ASH1L,hsa-mir-34b-5p,hsa-mir-302b-3p,0.005,TRUE,NA,tarbase,tarbase,0.01475610432852386,TRUE
+55870,ASH1L,hsa-mir-497-5p,hsa-mir-302a-3p,0.0015,TRUE,NA,mirtarbase tarbase,tarbase,0.005383963824115,TRUE
+55870,ASH1L,hsa-mir-497-5p,hsa-mir-302c-3p,0.0015,TRUE,NA,mirtarbase tarbase,tarbase,0.005383963824115,TRUE
+55870,ASH1L,hsa-mir-497-5p,hsa-mir-302d-3p,0.001,TRUE,NA,mirtarbase tarbase,tarbase,0.0037967444849004,TRUE
+55870,ASH1L,hsa-mir-548f-3p,hsa-mir-33a-3p,0.007,TRUE,NA,tarbase,tarbase,0.0194253287413901,TRUE
+56853,CELF4,hsa-mir-378c,hsa-mir-378a-3p,0.0015,FALSE,NA,mirtarbase,mirtarbase,0.005383963824115,TRUE
+56924,PAK6,hsa-mir-3609,hsa-mir-519d-3p,0.001,FALSE,NA,mirtarbase,mirtarbase,0.0037967444849004,TRUE
+57035,RSRP1,hsa-mir-3662,hsa-mir-122-5p,0.005,FALSE,NA,tarbase,tarbase,0.01475610432852386,TRUE
+57169,ZNFX1,hsa-mir-182-5p,hsa-mir-541-3p,0.001,FALSE,NA,tarbase,tarbase,0.0037967444849004,TRUE
+57181,SLC39A10,hsa-mir-1226-3p,hsa-mir-582-5p,0.001,FALSE,NA,tarbase,mirtarbase,0.0037967444849004,TRUE
+57587,CFAP97,hsa-mir-200c-3p,hsa-mir-33a-3p,0.0095,FALSE,NA,tarbase,tarbase,0.0248931782907541,TRUE
+57670,KIAA1549,hsa-mir-520a-5p,hsa-mir-301b-3p,0.002,FALSE,NA,mirtarbase,tarbase,0.00687181806434939,TRUE
+57674,RNF213,hsa-mir-3065-3p,hsa-mir-424-5p,0,FALSE,NA,tarbase,tarbase,0,TRUE
+57674,RNF213,hsa-mir-582-5p,hsa-mir-3065-3p,0.0035,FALSE,NA,mirtarbase,tarbase,0.01098845858669343,TRUE
+57695,USP37,hsa-mir-577,hsa-mir-455-3p,0.0065,FALSE,NA,tarbase,mirtarbase,0.01827912326159378,TRUE
+57761,TRIB3,hsa-mir-335-5p,hsa-mir-493-3p,0.001,FALSE,NA,mirtarbase tarbase,mirtarbase,0.0037967444849004,TRUE
+58528,RRAGD,hsa-mir-34c-5p,hsa-mir-124-3p,0.0035,FALSE,NA,mirtarbase,tarbase,0.01098845858669343,TRUE
+60468,BACH2,hsa-mir-7-1-3p,hsa-mir-29c-3p,0,TRUE,NA,tarbase,mirtarbase,0,TRUE
+64324,NSD1,hsa-mir-106a-5p,hsa-mir-181d-5p,0.001,FALSE,NA,tarbase,tarbase,0.0037967444849004,TRUE
+64778,FNDC3B,hsa-mir-155-5p,hsa-mir-211-5p,0.0065,FALSE,NA,mirtarbase tarbase,tarbase,0.01827912326159378,TRUE
+64866,CDCP1,hsa-mir-181d-5p,hsa-mir-138-5p,0.0095,FALSE,NA,tarbase,tarbase,0.0248931782907541,TRUE
+64866,CDCP1,hsa-mir-194-3p,hsa-mir-377-5p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+64866,CDCP1,hsa-mir-194-3p,hsa-mir-485-5p,5e-4,FALSE,NA,mirtarbase,mirtarbase,0.00205864591801184,TRUE
+64866,CDCP1,hsa-mir-665,hsa-mir-224-5p,0.0025,FALSE,NA,mirtarbase tarbase,tarbase,0.00830200755565268,TRUE
+64919,BCL11B,hsa-mir-942-5p,hsa-mir-216a-5p,5e-4,TRUE,NA,tarbase,tarbase,0.00205864591801184,TRUE
+64981,MRPL34,hsa-mir-196a-5p,hsa-mir-92b-5p,0.003,FALSE,NA,tarbase,mirtarbase,0.00965844356327753,TRUE
+65059,RAPH1,hsa-mir-129-5p,hsa-mir-204-5p,0.0065,FALSE,NA,tarbase,tarbase,0.01827912326159378,TRUE
+65059,RAPH1,hsa-mir-506-3p,hsa-mir-204-5p,0.0045,FALSE,NA,tarbase,tarbase,0.01352976594301221,TRUE
+65059,RAPH1,hsa-mir-509-3-5p,hsa-mir-204-5p,5e-4,FALSE,NA,tarbase,tarbase,0.00205864591801184,TRUE
+79026,AHNAK,hsa-mir-127-5p,hsa-mir-205-5p,0.0065,FALSE,NA,tarbase,tarbase,0.01827912326159378,TRUE
+79026,AHNAK,hsa-mir-205-5p,hsa-mir-1305,0.003,FALSE,NA,tarbase,tarbase,0.00965844356327753,TRUE
+79026,AHNAK,hsa-mir-487a-3p,hsa-mir-205-5p,5e-4,FALSE,NA,tarbase,tarbase,0.00205864591801184,TRUE
+79094,CHAC1,hsa-mir-539-5p,hsa-mir-940,0.001,FALSE,NA,mirtarbase,mirtarbase tarbase,0.0037967444849004,TRUE
+79834,PEAK1,hsa-mir-20b-5p,hsa-mir-92b-3p,5e-4,FALSE,NA,mirtarbase,mirtarbase,0.00205864591801184,TRUE
+79944,L2HGDH,hsa-mir-155-5p,hsa-mir-497-5p,0.001,FALSE,NA,mirtarbase tarbase,mirtarbase,0.0037967444849004,TRUE
+80045,GPR157,hsa-mir-519d-3p,hsa-mir-642a-5p,0.006,FALSE,NA,mirtarbase,tarbase,0.01713305412371134,TRUE
+80045,GPR157,hsa-mir-520h,hsa-mir-642a-5p,0.0025,FALSE,NA,mirtarbase,tarbase,0.00830200755565268,TRUE
+80223,RAB11FIP1,hsa-mir-29a-3p,hsa-mir-195-5p,0,FALSE,NA,mirtarbase,tarbase,0,TRUE
+80223,RAB11FIP1,hsa-mir-29a-3p,hsa-mir-502-5p,0.0025,FALSE,NA,mirtarbase,tarbase,0.00830200755565268,TRUE
+80223,RAB11FIP1,hsa-mir-29b-3p,hsa-mir-195-5p,0.004,FALSE,NA,mirtarbase,tarbase,0.01227348257558273,TRUE
+80223,RAB11FIP1,hsa-mir-29b-3p,hsa-mir-518c-5p,5e-4,FALSE,NA,mirtarbase,tarbase,0.00205864591801184,TRUE
+80223,RAB11FIP1,hsa-mir-29b-3p,hsa-mir-519d-3p,0.0015,FALSE,NA,mirtarbase,mirtarbase,0.005383963824115,TRUE
+80223,RAB11FIP1,hsa-mir-29b-3p,hsa-mir-520a-3p,0.003,FALSE,NA,mirtarbase,mirtarbase,0.00965844356327753,TRUE
+80223,RAB11FIP1,hsa-mir-29b-3p,hsa-mir-526b-3p,0.006,FALSE,NA,mirtarbase,mirtarbase,0.01713305412371134,TRUE
+80223,RAB11FIP1,hsa-mir-29c-3p,hsa-mir-195-5p,0,FALSE,NA,mirtarbase,tarbase,0,TRUE
+80223,RAB11FIP1,hsa-mir-29c-3p,hsa-mir-518c-5p,0.002,FALSE,NA,mirtarbase,tarbase,0.00687181806434939,TRUE
+80223,RAB11FIP1,hsa-mir-29c-3p,hsa-mir-519d-3p,0.0015,FALSE,NA,mirtarbase,mirtarbase,0.005383963824115,TRUE
+80223,RAB11FIP1,hsa-mir-29c-3p,hsa-mir-526b-3p,0.0035,FALSE,NA,mirtarbase,mirtarbase,0.01098845858669343,TRUE
+80223,RAB11FIP1,hsa-mir-520c-3p,hsa-mir-29b-3p,0.003,FALSE,NA,mirtarbase,mirtarbase,0.00965844356327753,TRUE
+80223,RAB11FIP1,hsa-mir-520c-3p,hsa-mir-29c-3p,0.006,FALSE,NA,mirtarbase,mirtarbase,0.01713305412371134,TRUE
+80228,ORAI2,hsa-mir-3922-3p,hsa-mir-302a-3p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+80228,ORAI2,hsa-mir-3922-3p,hsa-mir-302c-3p,0.001,FALSE,NA,mirtarbase,mirtarbase,0.0037967444849004,TRUE
+80228,ORAI2,hsa-mir-3922-3p,hsa-mir-302d-3p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+80228,ORAI2,hsa-mir-3922-3p,hsa-mir-367-3p,0.003,FALSE,NA,mirtarbase,mirtarbase,0.00965844356327753,TRUE
+80315,CPEB4,hsa-mir-335-3p,hsa-mir-429,0.005,FALSE,NA,tarbase,tarbase,0.01475610432852386,TRUE
+80856,LNPK,hsa-mir-34c-5p,hsa-mir-548e-3p,0.0045,FALSE,NA,mirtarbase,mirtarbase,0.01352976594301221,TRUE
+81848,SPRY4,hsa-mir-342-5p,hsa-mir-129-2-3p,0.009,FALSE,"<a href='https://pubmed.ncbi.nlm.nih.gov/23640991'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/29410498'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/30027931'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/31235829'>PubMedLink</a>",mirtarbase,tarbase,0.02382779907402797,TRUE
+84128,WDR75,hsa-mir-129-5p,hsa-mir-149-3p,0.004,FALSE,NA,tarbase,mirtarbase,0.01227348257558273,TRUE
+84144,SYDE2,hsa-mir-367-3p,hsa-mir-182-5p,0.0085,FALSE,NA,tarbase,mirtarbase,0.022739498968761,TRUE
+84144,SYDE2,hsa-mir-367-3p,hsa-mir-183-3p,0.0025,FALSE,NA,tarbase,tarbase,0.00830200755565268,TRUE
+84247,RTL6,hsa-mir-497-5p,hsa-mir-302a-3p,0.009,FALSE,NA,tarbase,tarbase,0.02382779907402797,TRUE
+84247,RTL6,hsa-mir-497-5p,hsa-mir-302d-3p,0.0075,FALSE,NA,tarbase,tarbase,0.02055066079295154,TRUE
+84248,FYTTD1,hsa-mir-381-3p,hsa-mir-411-3p,0,FALSE,NA,tarbase,mirtarbase,0,TRUE
+84248,FYTTD1,hsa-mir-381-3p,hsa-mir-654-3p,0,FALSE,NA,tarbase,tarbase,0,TRUE
+84272,YIPF4,hsa-mir-744-3p,hsa-mir-92b-3p,0.002,FALSE,NA,mirtarbase,mirtarbase,0.00687181806434939,TRUE
+84272,YIPF4,hsa-mir-92b-3p,hsa-mir-3065-5p,0.0045,FALSE,NA,mirtarbase,tarbase,0.01352976594301221,TRUE
+84272,YIPF4,hsa-mir-92b-3p,hsa-mir-541-3p,0.0065,FALSE,NA,mirtarbase,mirtarbase,0.01827912326159378,TRUE
+84293,PRXL2A,hsa-mir-20b-5p,hsa-mir-372-3p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+84333,PCGF5,hsa-mir-1305,hsa-mir-183-5p,0.0015,FALSE,NA,tarbase,tarbase,0.005383963824115,TRUE
+84333,PCGF5,hsa-mir-183-5p,hsa-mir-500a-5p,0.0065,FALSE,NA,tarbase,tarbase,0.01827912326159378,TRUE
+84823,LMNB2,hsa-mir-378c,hsa-mir-188-3p,0.0055,FALSE,NA,mirtarbase,mirtarbase,0.01596242632612966,TRUE
+90627,STARD13,hsa-mir-1270,hsa-mir-376b-3p,0.0035,FALSE,NA,tarbase,tarbase,0.01098845858669343,TRUE
+92255,LMBRD2,hsa-mir-142-3p,hsa-mir-519e-3p,0.0095,FALSE,NA,tarbase,mirtarbase,0.0248931782907541,TRUE
+112939,"NACC1",hsa-mir-452-3p,hsa-mir-491-5p,0.0045,FALSE,NA,tarbase,mirtarbase tarbase,0.01352976594301221,TRUE
+114908,TMEM123,hsa-mir-204-5p,hsa-mir-653-5p,0.008,FALSE,NA,tarbase,tarbase,0.02165901338899353,TRUE
+114987,WDR31,hsa-mir-183-5p,hsa-mir-301b-3p,0.005,FALSE,NA,mirtarbase,mirtarbase,0.01475610432852386,TRUE
+116236,ABHD15,hsa-mir-302c-3p,hsa-mir-296-5p,0.0025,FALSE,NA,mirtarbase,tarbase,0.00830200755565268,TRUE
+116236,ABHD15,hsa-mir-302d-3p,hsa-mir-485-5p,0.0015,FALSE,NA,mirtarbase,mirtarbase,0.005383963824115,TRUE
+116236,ABHD15,hsa-mir-485-5p,hsa-mir-302a-3p,0.001,FALSE,NA,mirtarbase,mirtarbase,0.0037967444849004,TRUE
+116236,ABHD15,hsa-mir-512-3p,hsa-mir-20b-5p,0.0015,FALSE,NA,mirtarbase,mirtarbase,0.005383963824115,TRUE
+116236,ABHD15,hsa-mir-520d-3p,hsa-mir-106a-5p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+116236,ABHD15,hsa-mir-520d-3p,hsa-mir-20b-5p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+116236,ABHD15,hsa-mir-526b-3p,hsa-mir-106a-5p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+116236,ABHD15,hsa-mir-526b-3p,hsa-mir-20b-5p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+116984,ARAP2,hsa-let-7f-2-3p,hsa-mir-942-5p,0.003,FALSE,NA,mirtarbase,tarbase,0.00965844356327753,TRUE
+120114,FAT3,hsa-mir-1270,hsa-mir-296-3p,0.0035,FALSE,NA,mirtarbase,mirtarbase,0.01098845858669343,TRUE
+124540,MSI2,hsa-mir-34b-5p,hsa-mir-150-3p,0.009,FALSE,NA,tarbase,tarbase,0.02382779907402797,TRUE
+132720,FAM241A,hsa-mir-106a-5p,hsa-mir-520c-3p,0.007,FALSE,NA,mirtarbase,mirtarbase,0.0194253287413901,TRUE
+132720,FAM241A,hsa-mir-106a-5p,hsa-mir-526b-3p,0.0085,FALSE,NA,mirtarbase,mirtarbase,0.022739498968761,TRUE
+132720,FAM241A,hsa-mir-20b-5p,hsa-mir-520c-3p,0.002,FALSE,NA,mirtarbase,mirtarbase,0.00687181806434939,TRUE
+132720,FAM241A,hsa-mir-20b-5p,hsa-mir-520d-3p,0.0065,FALSE,NA,mirtarbase,mirtarbase,0.01827912326159378,TRUE
+132720,FAM241A,hsa-mir-520g-3p,hsa-mir-20b-5p,0.0065,FALSE,NA,mirtarbase,mirtarbase,0.01827912326159378,TRUE
+132720,FAM241A,hsa-mir-526b-3p,hsa-mir-20b-5p,0.0015,FALSE,NA,mirtarbase,mirtarbase,0.005383963824115,TRUE
+135228,CD109,hsa-mir-142-5p,hsa-mir-9-5p,0,FALSE,NA,tarbase,tarbase,0,TRUE
+138151,"NACC2",hsa-mir-92b-3p,hsa-mir-130b-3p,0.0025,FALSE,NA,mirtarbase,mirtarbase tarbase,0.00830200755565268,TRUE
+139065,SLITRK4,hsa-mir-329-3p,hsa-mir-223-5p,0.004,FALSE,NA,mirtarbase,mirtarbase tarbase,0.01227348257558273,TRUE
+144321,GLIPR1L2,hsa-mir-642a-5p,hsa-mir-511-5p,0.0025,FALSE,NA,mirtarbase,mirtarbase,0.00830200755565268,TRUE
+150921,TCF23,hsa-mir-149-3p,hsa-mir-665,0.0045,TRUE,NA,mirtarbase,mirtarbase,0.01352976594301221,TRUE
+153222,CREBRF,hsa-mir-676-3p,hsa-mir-219a-1-3p,0,FALSE,NA,tarbase,tarbase,0,TRUE
+153830,RNF145,hsa-mir-130b-3p,hsa-mir-183-3p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+153830,RNF145,hsa-mir-130b-5p,hsa-mir-183-3p,5e-4,FALSE,NA,tarbase,mirtarbase,0.00205864591801184,TRUE
+162073,ITPRIPL2,hsa-mir-656-3p,hsa-mir-767-5p,0.005,FALSE,NA,mirtarbase,tarbase,0.01475610432852386,TRUE
+162394,SLFN5,hsa-mir-127-5p,hsa-mir-96-5p,0.006,FALSE,NA,mirtarbase,tarbase,0.01713305412371134,TRUE
+166929,SGMS2,hsa-mir-497-3p,hsa-mir-3609,0.0035,FALSE,NA,tarbase,mirtarbase,0.01098845858669343,TRUE
+169200,TMEM64,hsa-mir-18a-3p,hsa-mir-519d-3p,0.0025,FALSE,NA,tarbase,mirtarbase,0.00830200755565268,TRUE
+169200,TMEM64,hsa-mir-18a-3p,hsa-mir-526b-3p,0.0035,FALSE,NA,tarbase,mirtarbase,0.01098845858669343,TRUE
+169200,TMEM64,hsa-mir-302a-3p,hsa-mir-18a-3p,0.003,FALSE,NA,tarbase,tarbase,0.00965844356327753,TRUE
+169200,TMEM64,hsa-mir-302c-3p,hsa-mir-18a-3p,0.008,FALSE,NA,tarbase,tarbase,0.02165901338899353,TRUE
+169200,TMEM64,hsa-mir-34b-5p,hsa-mir-18a-3p,0.002,FALSE,NA,tarbase,tarbase,0.00687181806434939,TRUE
+169200,TMEM64,hsa-mir-9-3p,hsa-mir-548f-3p,0.002,FALSE,NA,tarbase,tarbase,0.00687181806434939,TRUE
+200424,TET3,hsa-mir-302a-5p,hsa-mir-499a-3p,0.0015,FALSE,NA,tarbase,tarbase,0.005383963824115,TRUE
+200424,TET3,hsa-mir-7-5p,hsa-mir-548d-3p,0.008,FALSE,NA,tarbase,tarbase,0.02165901338899353,TRUE
+205327,C2orf69,hsa-mir-181d-5p,hsa-mir-20b-5p,0.005,FALSE,NA,mirtarbase tarbase,mirtarbase,0.01475610432852386,TRUE
+221477,C6orf89,hsa-mir-31-5p,hsa-mir-548s,5e-4,FALSE,NA,tarbase,mirtarbase,0.00205864591801184,TRUE
+253559,CADM2,hsa-mir-302a-3p,hsa-mir-512-3p,0.0025,FALSE,NA,mirtarbase,mirtarbase,0.00830200755565268,TRUE
+253559,CADM2,hsa-mir-302a-3p,hsa-mir-519d-3p,0.008,FALSE,NA,mirtarbase,mirtarbase,0.02165901338899353,TRUE
+253559,CADM2,hsa-mir-302a-3p,hsa-mir-520d-3p,0.0055,FALSE,NA,mirtarbase,mirtarbase,0.01596242632612966,TRUE
+253559,CADM2,hsa-mir-520a-3p,hsa-mir-302a-3p,0.007,FALSE,NA,mirtarbase,mirtarbase,0.0194253287413901,TRUE
+253559,CADM2,hsa-mir-520a-3p,hsa-mir-302d-3p,0.0065,FALSE,NA,mirtarbase,mirtarbase,0.01827912326159378,TRUE
+253559,CADM2,hsa-mir-520c-3p,hsa-mir-302a-3p,0.004,FALSE,NA,mirtarbase,mirtarbase,0.01227348257558273,TRUE
+253559,CADM2,hsa-mir-526b-5p,hsa-mir-302d-3p,0.007,FALSE,NA,mirtarbase,mirtarbase,0.0194253287413901,TRUE
+254048,UBN2,hsa-mir-181d-5p,hsa-mir-34c-5p,0.0025,FALSE,NA,tarbase,tarbase,0.00830200755565268,TRUE
+283373,ANKRD52,hsa-mir-378a-3p,hsa-mir-34c-5p,0.0045,FALSE,NA,tarbase,tarbase,0.01352976594301221,TRUE
+285513,GPRIN3,hsa-mir-329-3p,hsa-mir-183-5p,0.003,FALSE,NA,mirtarbase,tarbase,0.00965844356327753,TRUE
+285513,GPRIN3,hsa-mir-373-3p,hsa-mir-329-3p,0.0075,FALSE,NA,mirtarbase,mirtarbase,0.02055066079295154,TRUE
+285704,RGMB,hsa-mir-486-3p,hsa-mir-302d-3p,0,FALSE,NA,tarbase,mirtarbase,0,TRUE
+338645,LUZP2,hsa-mir-205-3p,hsa-mir-106a-5p,0.0085,FALSE,NA,mirtarbase,mirtarbase,0.022739498968761,TRUE
+341208,HEPHL1,hsa-mir-223-5p,hsa-mir-518f-5p,0.002,FALSE,NA,mirtarbase,mirtarbase,0.00687181806434939,TRUE
+341208,HEPHL1,hsa-mir-519a-5p,hsa-mir-223-5p,0.006,FALSE,NA,mirtarbase,mirtarbase,0.01713305412371134,TRUE
+375248,ANKRD36,hsa-mir-378a-5p,hsa-mir-7-5p,0.002,FALSE,NA,mirtarbase,mirtarbase,0.00687181806434939,TRUE
+375449,MAST4,hsa-mir-20b-5p,hsa-mir-92b-3p,0,FALSE,NA,tarbase,tarbase,0,TRUE
+375449,MAST4,hsa-mir-92b-3p,hsa-mir-106a-5p,0,FALSE,NA,tarbase,tarbase,0,TRUE
+390637,GDPGP1,hsa-mir-377-5p,hsa-mir-2113,0.008,FALSE,NA,mirtarbase,mirtarbase,0.02165901338899353,TRUE
+403341,ZBTB34,hsa-mir-29b-3p,hsa-mir-424-5p,0.0055,TRUE,NA,mirtarbase tarbase,mirtarbase tarbase,0.01596242632612966,TRUE
+403341,ZBTB34,hsa-mir-29b-3p,hsa-mir-503-5p,0.002,TRUE,NA,mirtarbase tarbase,mirtarbase tarbase,0.00687181806434939,TRUE
+619279,ZNF704,hsa-mir-130b-5p,hsa-mir-182-3p,0,FALSE,NA,mirtarbase tarbase,mirtarbase,0,TRUE
+619279,ZNF704,hsa-mir-130b-5p,hsa-mir-643,0.007,FALSE,NA,mirtarbase tarbase,mirtarbase,0.0194253287413901,TRUE
+645369,TMEM200C,hsa-mir-497-3p,hsa-mir-519b-3p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+645369,TMEM200C,hsa-mir-497-3p,hsa-mir-519c-3p,0.001,FALSE,NA,mirtarbase,mirtarbase,0.0037967444849004,TRUE
+645369,TMEM200C,hsa-mir-497-3p,hsa-mir-526b-3p,0,FALSE,NA,mirtarbase,mirtarbase,0,TRUE
+645369,TMEM200C,hsa-mir-519d-3p,hsa-mir-497-3p,5e-4,FALSE,NA,mirtarbase,mirtarbase,0.00205864591801184,TRUE
+728927,ZNF736,hsa-mir-376a-3p,hsa-mir-873-5p,0.0055,TRUE,NA,mirtarbase,mirtarbase,0.01596242632612966,TRUE
+100507436,MICA,hsa-mir-106a-5p,hsa-mir-520d-3p,0.0025,FALSE,NA,tarbase,mirtarbase,0.00830200755565268,TRUE
+100507436,MICA,hsa-mir-520h,hsa-mir-106a-5p,0.0035,FALSE,NA,mirtarbase,tarbase,0.01098845858669343,TRUE

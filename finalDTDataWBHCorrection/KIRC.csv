@@ -1,0 +1,93 @@
+entrezgene_id,hgnc_symbol,mirna1,mirna2,Lancaster_XY_Z,is_mrna_tf,mirna1Literature,mirna2Literature,mrnaLiterature,miRNA1_mRNA_DB,miRNA2_mRNA_DB,miRNA1_pvalue,miRNA1_logFC,miRNA2_pvalue,miRNA2_logFC,mRNA_pvalue,mRNA_logFC,BH_pvalues_adjusted,BH_rejected
+999,CDH1,hsa-mir-34c-5p,hsa-mir-629-3p,0.0085,FALSE,NA,NA,"<a href='https://pubmed.ncbi.nlm.nih.gov/11568972'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/18195710'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/19641369'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/20553257'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/28802251'>PubMedLink</a>",mirtarbase,tarbase,0.329465035976838,0.15863077529598,1.29193975478257e-5,0.601301751680986,8.4240966890289e-4,-0.136294409383365,0.12488131313131316,FALSE
+2591,GALNT3,hsa-mir-340-5p,hsa-mir-629-3p,5e-4,FALSE,NA,NA,<a href='https://pubmed.ncbi.nlm.nih.gov/23799843'>PubMedLink</a>,mirtarbase,tarbase,1.0043065094235e-4,0.397649161187248,1.29193975478257e-5,0.601301751680986,2.79046969342611e-10,-0.282440927665956,0.02308730158730158,TRUE
+2824,GPM6B,hsa-mir-146a-5p,hsa-mir-629-3p,5e-4,FALSE,NA,NA,NA,mirtarbase,tarbase,0.0026377882342123,0.245289169618246,1.29193975478257e-5,0.601301751680986,7.25546318711349e-7,-0.228223210383632,0.02308730158730158,TRUE
+3480,IGF1R,hsa-mir-340-5p,hsa-mir-224-5p,0.0015,FALSE,NA,NA,"<a href='https://pubmed.ncbi.nlm.nih.gov/17952403'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/19509240'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/23548153'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/30701095'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/31126198'>PubMedLink</a>",mirtarbase tarbase,mirtarbase tarbase,1.0043065094235e-4,0.397649161187248,1.03153453433243e-21,1.03375480318174,0.468172386437174,-0.0309684266284873,0.04795054945054945,TRUE
+3480,IGF1R,hsa-mir-452-5p,hsa-mir-340-5p,5e-4,FALSE,<a href='https://pubmed.ncbi.nlm.nih.gov/30419914'>PubMedLink</a>,NA,"<a href='https://pubmed.ncbi.nlm.nih.gov/17952403'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/19509240'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/23548153'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/30701095'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/31126198'>PubMedLink</a>",tarbase,mirtarbase tarbase,1.76601226675337e-10,0.564589603227695,1.0043065094235e-4,0.397649161187248,0.468172386437174,-0.0309684266284873,0.02308730158730158,TRUE
+3486,IGFBP3,hsa-mir-511-5p,hsa-mir-26a-1-3p,0.0045,FALSE,NA,NA,"<a href='https://pubmed.ncbi.nlm.nih.gov/15086466'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/15661050'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/15661050'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/15753986'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/1716700'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/21314884'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/27038904'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/27976731'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/28484923'>PubMedLink</a>",tarbase,tarbase,0.669884894195626,-0.047763344265251,2.36252264709917e-9,-0.694703548599148,5.580182563111e-9,0.229057591571759,0.0948586956521739,FALSE
+3491,CCN1,hsa-mir-155-5p,hsa-mir-616-3p,0.005,FALSE,NA,NA,"<a href='https://pubmed.ncbi.nlm.nih.gov/18212329'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/18212329'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/23744557'>PubMedLink</a>",mirtarbase tarbase,tarbase,5.40542274160442e-18,0.638657700761372,0.00327882754865852,0.553881989041478,0.298194301065796,-0.0406047140880759,0.10100694444444444,FALSE
+3708,ITPR1,hsa-mir-340-5p,hsa-mir-589-3p,0,FALSE,NA,NA,<a href='https://pubmed.ncbi.nlm.nih.gov/25297632'>PubMedLink</a>,mirtarbase tarbase,tarbase,1.0043065094235e-4,0.397649161187248,0.995964694941145,7.3571877458258e-4,0.0680559428978242,-0.0787927037673592,0,TRUE
+3949,LDLR,hsa-mir-204-5p,hsa-mir-150-5p,0.0065,FALSE,NA,NA,"<a href='https://pubmed.ncbi.nlm.nih.gov/29029037'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/8555255'>PubMedLink</a>",tarbase,tarbase,9.29127013204704e-6,-0.286940414076031,0.0170689907095438,0.162113081263818,0.00161370344193733,-0.140726335182564,0.11255059523809524,FALSE
+3949,LDLR,hsa-mir-223-5p,hsa-mir-452-3p,0.0045,FALSE,NA,NA,"<a href='https://pubmed.ncbi.nlm.nih.gov/29029037'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/8555255'>PubMedLink</a>",mirtarbase,tarbase,1.0213061535366e-4,0.535203826816748,4.1940133348404595e-11,0.966225486657634,0.00161370344193733,-0.140726335182564,0.0948586956521739,FALSE
+4286,MITF,hsa-mir-340-5p,hsa-mir-155-5p,0.008,TRUE,NA,NA,"NA
+<a href='https://pubmed.ncbi.nlm.nih.gov/12837690'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/19496784'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/22012259'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/22012259'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/22012259'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/22012259'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/22012259'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/22012259'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/22012259'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/22012259'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/22012259'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/23038766'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/23167872'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/24290354'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/24735727'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/24899691'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/24899691'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/26650189'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/26999813'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/28787086'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/28840857'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/28840857'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/29148086'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/29148086'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/30116909'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/30622287'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/30707172'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/30908700'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/31034483'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/31034483'>PubMedLink</a>
+<a href='https://pubmed.ncbi.nlm.nih.gov/31326218'>PubMedLink</a>",mirtarbase,mirtarbase,1.0043065094235e-4,0.397649161187248,5.40542274160442e-18,0.638657700761372,0.216940631607309,-0.0529094251215756,0.12120833333333336,FALSE
+5069,PAPPA,hsa-mir-100-5p,hsa-mir-452-5p,0.009,FALSE,NA,<a href='https://pubmed.ncbi.nlm.nih.gov/30419914'>PubMedLink</a>,NA,tarbase,tarbase,0.960172410794639,-0.00281405365908129,1.76601226675337e-10,0.564589603227695,7.04450485880734e-16,-0.374029563786147,0.1283382352941176,FALSE
+7552,ZNF711,hsa-mir-141-5p,hsa-mir-450b-5p,0.008,TRUE,NA,NA,NA,tarbase,tarbase,2.87329165110764e-68,-2.10865169424516,0.230247467163856,0.106757821081092,0.268005406772526,-0.0502572980454478,0.12120833333333336,FALSE
+7552,ZNF711,hsa-mir-141-5p,hsa-mir-629-3p,0.007,TRUE,NA,NA,NA,tarbase,tarbase,2.87329165110764e-68,-2.10865169424516,1.29193975478257e-5,0.601301751680986,0.268005406772526,-0.0502572980454478,0.115045197740113,FALSE
+8408,ULK1,hsa-mir-146b-5p,hsa-mir-3065-3p,0.004,FALSE,NA,NA,NA,tarbase,tarbase,6.7393365800186e-4,0.230490541419182,2.65068712278355e-8,-0.482091001698449,0.38674440582923,0.0375235552087793,0.08683582089552239,FALSE
+8854,ALDH1A2,hsa-mir-155-5p,hsa-mir-362-3p,0.0095,FALSE,NA,<a href='https://pubmed.ncbi.nlm.nih.gov/26647877'>PubMedLink</a>,NA,mirtarbase tarbase,tarbase,5.40542274160442e-18,0.638657700761372,4.9475214537473e-4,-0.485637275465429,4.00316982531247e-12,-0.313622658923373,0.13350483091787438,FALSE
+10560,SLC19A2,hsa-mir-146b-5p,hsa-mir-192-5p,0.0015,FALSE,NA,NA,NA,tarbase,mirtarbase tarbase,6.7393365800186e-4,0.230490541419182,0.512163534243556,0.0356660401403946,0.00180399178460065,-0.135931429904835,0.04795054945054945,TRUE
+10560,SLC19A2,hsa-mir-192-5p,hsa-mir-122-5p,0.0015,FALSE,NA,NA,NA,mirtarbase tarbase,mirtarbase tarbase,0.512163534243556,0.0356660401403946,2.14025696512547e-62,3.3429230263065,0.00180399178460065,-0.135931429904835,0.04795054945054945,TRUE
+10560,SLC19A2,hsa-mir-215-5p,hsa-mir-122-5p,0,FALSE,NA,NA,NA,mirtarbase tarbase,mirtarbase tarbase,3.75689929708068e-6,0.417810705471489,2.14025696512547e-62,3.3429230263065,0.00180399178460065,-0.135931429904835,0,TRUE
+23731,TMEM245,hsa-mir-424-5p,hsa-mir-340-5p,0.007,FALSE,NA,NA,NA,mirtarbase tarbase,mirtarbase tarbase,0.821534998718057,-0.0147774517265685,1.0043065094235e-4,0.397649161187248,0.0288205629371372,-0.0906024856473862,0.115045197740113,FALSE
+51430,SUCO,hsa-mir-142-5p,hsa-mir-194-3p,0.004,FALSE,<a href='https://pubmed.ncbi.nlm.nih.gov/24977165'>PubMedLink</a> <a href='https://pubmed.ncbi.nlm.nih.gov/28559989'>PubMedLink</a>,NA,NA,tarbase,tarbase,5.1626766662507506e-9,0.521902815160723,0.509332188115095,-0.063703195660513,0.263129138502066,-0.048467727972251,0.08683582089552239,FALSE
+53335,BCL11A,hsa-mir-199a-3p,hsa-mir-182-5p,0.0055,TRUE,<a href='https://pubmed.ncbi.nlm.nih.gov/24609899'>PubMedLink</a> <a href='https://pubmed.ncbi.nlm.nih.gov/24609899'>PubMedLink</a> <a href='https://pubmed.ncbi.nlm.nih.gov/29773428'>PubMedLink</a>,<a href='https://pubmed.ncbi.nlm.nih.gov/24886554'>PubMedLink</a>,NA,tarbase,tarbase,3.36613682722652e-5,-0.25201299853444,0.0991293576132444,-0.0931909141424519,0.00382737922493053,0.148985426089592,0.10322258064516128,FALSE
+54845,ESRP1,hsa-mir-18a-5p,hsa-mir-223-5p,0.006,FALSE,<a href='https://pubmed.ncbi.nlm.nih.gov/30018727'>PubMedLink</a>,NA,<a href='https://pubmed.ncbi.nlm.nih.gov/17145811'>PubMedLink</a>,tarbase,tarbase,6.5951988861591e-4,0.432113908815272,1.0213061535366e-4,0.535203826816748,6.33247151765617e-26,-0.757934312121894,0.10642682926829268,FALSE
+54897,CASZ1,hsa-mir-100-5p,hsa-mir-326,5e-4,TRUE,NA,NA,NA,tarbase,tarbase,0.960172410794639,-0.00281405365908129,0.975502665547562,0.00353835257173612,3.70758515894013e-6,-0.218746897601455,0.02308730158730158,TRUE
+54910,SEMA4C,hsa-mir-222-5p,hsa-mir-362-3p,5e-4,FALSE,NA,<a href='https://pubmed.ncbi.nlm.nih.gov/26647877'>PubMedLink</a>,NA,tarbase,mirtarbase tarbase,0.0887430900364403,0.229949125586454,4.9475214537473e-4,-0.485637275465429,0.150123671272542,0.062840560695563,0.02308730158730158,TRUE
+64393,ZMAT3,hsa-mir-340-5p,hsa-mir-616-5p,0.0035,FALSE,NA,NA,NA,tarbase,mirtarbase,1.0043065094235e-4,0.397649161187248,4.8284603259485e-4,0.510832097121789,0.780729287282547,-0.0121119747997452,0.07954296875,FALSE
+64841,GNPNAT1,hsa-mir-155-5p,hsa-mir-455-3p,0,FALSE,NA,NA,NA,mirtarbase tarbase,mirtarbase,5.40542274160442e-18,0.638657700761372,0.859814537821747,0.011398467733473,0.0965280434797321,-0.0721155101529686,0,TRUE
+80315,CPEB4,hsa-mir-181d-5p,hsa-mir-155-5p,0.001,FALSE,NA,NA,NA,mirtarbase tarbase,mirtarbase,4.210894222551e-4,0.38249037243054,5.40542274160442e-18,0.638657700761372,0.0303742766196483,-0.0914609812747644,0.03777922077922078,TRUE
+84959,UBASH3B,hsa-let-7f-5p,hsa-mir-192-5p,0.008,FALSE,NA,NA,<a href='https://pubmed.ncbi.nlm.nih.gov/27840968'>PubMedLink</a>,tarbase,mirtarbase tarbase,0.566709554353403,-0.0300931756069192,0.512163534243556,0.0356660401403946,0.433938483992497,0.0371516392048104,0.12120833333333336,FALSE
+117177,RAB3IP,hsa-mir-142-3p,hsa-mir-493-5p,0.009,FALSE,<a href='https://pubmed.ncbi.nlm.nih.gov/26893725'>PubMedLink</a>,NA,NA,tarbase,mirtarbase,3.20092438318819e-5,0.255171116021858,1.37928805826532e-5,-0.550044862964965,0.194729985726278,-0.0563424033145073,0.1283382352941176,FALSE
+123041,SLC24A4,hsa-mir-183-5p,hsa-mir-455-3p,0.0075,FALSE,NA,NA,NA,mirtarbase,mirtarbase,0.00140551371208743,-0.194650790760886,0.859814537821747,0.011398467733473,3.58682069799978e-5,0.23262524222508,0.11543650793650792,FALSE
+150094,SIK1,hsa-mir-629-3p,hsa-mir-616-3p,0.009,FALSE,NA,NA,NA,tarbase,mirtarbase,1.29193975478257e-5,0.601301751680986,0.00327882754865852,0.553881989041478,0.189747799903273,-0.0697357330442393,0.1283382352941176,FALSE
+151888,BTLA,hsa-mir-143-5p,hsa-mir-455-3p,0.006,FALSE,NA,NA,<a href='https://pubmed.ncbi.nlm.nih.gov/27234378'>PubMedLink</a>,mirtarbase,mirtarbase,0.495593473423212,0.0519438396454713,0.859814537821747,0.011398467733473,8.8002139898515e-4,0.176535624197128,0.10642682926829268,FALSE
+285268,ZNF621,hsa-mir-452-5p,hsa-mir-134-5p,0.006,TRUE,<a href='https://pubmed.ncbi.nlm.nih.gov/30419914'>PubMedLink</a>,NA,NA,mirtarbase tarbase,mirtarbase,1.76601226675337e-10,0.564589603227695,0.0026705271280448,-0.225346522561786,0.794402266661111,-0.0117112078811938,0.10642682926829268,FALSE
+401474,SAMD12,hsa-mir-539-5p,hsa-mir-381-3p,0.0025,FALSE,NA,NA,NA,mirtarbase,tarbase,6.93373994527132e-9,-0.724400330192993,0.00842066011523623,-0.27853470180118,8.1445384031928e-7,-0.227347738549433,0.06733796296296296,FALSE
+728116,ZBTB8B,hsa-mir-192-5p,hsa-mir-214-3p,0,TRUE,NA,NA,NA,mirtarbase,mirtarbase,0.512163534243556,0.0356660401403946,2.10596113760834e-12,-0.917487845066717,3.6241149796965895e-11,-0.534031733257453,0,TRUE
+728116,ZBTB8B,hsa-mir-194-3p,hsa-mir-192-5p,0.004,TRUE,NA,NA,NA,mirtarbase,mirtarbase,0.509332188115095,-0.063703195660513,0.512163534243556,0.0356660401403946,3.6241149796965895e-11,-0.534031733257453,0.08683582089552239,FALSE
