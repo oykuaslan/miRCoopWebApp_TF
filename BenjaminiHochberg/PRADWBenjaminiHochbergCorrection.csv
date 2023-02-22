@@ -1,0 +1,7 @@
+Two_Var_XZ,Two_Var_YZ,Lancaster_XY_Z,mrna,mirna1,mirna2,BH_rejected,BH_pvalues_adjusted
+0.2135,0.011,0.0045,7422,hsa-mir-20b-5p,hsa-mir-150-5p,True,0.02550572519083969
+0.791,0.064,0.0,6860,hsa-mir-142-3p,hsa-mir-153-3p,True,0.0
+0.106,0.0105,0.0025,8091,hsa-let-7g-3p,hsa-mir-33b-5p,True,0.01664798206278027
+0.13,0.2005,0.003,8091,hsa-let-7g-3p,hsa-mir-326,True,0.019285714285714285
+0.024,0.232,0.0045,346389,hsa-mir-362-3p,hsa-mir-338-3p,True,0.02550572519083969
+0.1045,0.0935,0.001,338645,hsa-mir-20b-5p,hsa-mir-106a-5p,True,0.007857142857142858
